@@ -1,0 +1,5 @@
+xmonad --recompile
+net-sync
+conky with no X11 flags
+snownews configuration
+net-sync updating

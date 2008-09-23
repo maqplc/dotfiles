@@ -2,7 +2,5 @@ CONNECTION="wireless"
 INTERFACE=wlan0
 SCAN="yes"
 SECURITY="wpa"
-ESSID="Essid"
-KEY="Passphrase"
 IP="dhcp"
 TIMEOUT=20
