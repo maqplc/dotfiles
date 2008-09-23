@@ -1,0 +1,32 @@
+#!/bin/sh
+
+local_name="morenbach"
+
+feed_url="http://the.darkers.free.fr/sagas/morenbach/mp3.htm"
+feed_name=$local_name".feed"
+
+function _new {
+	mkdir -p saison{1..4}
+
+	echo \
+	"E"{"p"{"0"{0,{1..3}"Rx",{4..9}},{10..11}},"P"{12"-"{1..3},{13..20}}}"BQ.mp3 " \
+	 "http://the.darkers.free.fr/sagas/morenbach/Endgame/Labyhtml/CC01/EP21-1BQ.mp3 " \
+	"http://the.darkers.free.fr/sagas/morenbach/Endgame/Labyhtml/HH10/EP21-2BQ.mp3 " \
+	"http://the.darkers.free.fr/sagas/morenbach/Endgame/Labyhtml/SS10/EP21-3BQ.mp3 " \
+	"http://the.darkers.free.fr/sagas/morenbach/Endgame/Labyhtml/LL01/EP21-4BQ.mp3 " \
+	"http://the.darkers.free.fr/sagas/morenbach/Endgame/Labyhtml/NN01/EP21-5BQ.mp3 " \
+       	| tr [:blank:] \\n | wget -nv -c -T 30 -B "http://the.darkers.free.fr/sagas/morenbach/mp3/" -i -	
+	
+	for i in $( echo "Ep0"{0,{1..3}"Rx",4,5,6}"BQ.mp3") ; do mv $i saison1 ; done
+	for i in $(echo *{"0"{7..9},{10..11},12"-"{1..3}}"BQ.mp3") ; do mv $i saison2 ; done
+	for i in $(echo "EP"{13..18}"BQ.mp3") ; do mv $i saison3 ; done
+	for i in "*.mp3" ; do mv $i saison4 ; done
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

@@ -1,0 +1,35 @@
+#!/bin/sh
+
+local_name="darths_n_droids"
+
+feed_url="http://www.darthsanddroids.net/archive.html"
+feed_name=$local_name".feed"
+
+
+function _new {
+	sed -n 's%href="\(/episodes/[^"]*\)"%\n\1\n%gp' "../$feed_name" \
+	| sed -n '2~3 p' \
+	| wget -nv -B "http://www.darthsanddroids.net/" -p -i -
+
+	#Je garde les pages Html pour les commentaires
+	for i in $(find ./ -name "*jpg") ; do cp $i ./ ; done
+
+
+	for i in $(find ./ -name "*html")
+	do
+		name=${i/html/txt}
+		awk 'BEGIN { found = 0 } /div class="text"/ { found = 1 } /<\/div>/ { found = 0 } /.*/ { if ( found == 1) {print $0} }' "$i" > "${name##[^/]*/}"
+
+	done
+
+	rm -r www*
+		
+
+}
+
+
+function _update {
+	echo -e "Dunno"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

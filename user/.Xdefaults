@@ -1,0 +1,6 @@
+URxvt.background:            #000000
+URxvt.foreground:            #ffffff
+URxvt.inheritPixmap:         true
+URxvt.shading:               20             !trans=100, 0=opaque
+URxvt.fading:                10              !term unfocus
+URxvt.scrollBar:             false

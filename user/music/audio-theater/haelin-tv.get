@@ -1,0 +1,25 @@
+#!/bin/sh
+
+local_name="haelin-tv"
+
+feed_url="http://xr8.free.fr/haelin/accueil.htm"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n 's%\(episodes/.*\.mp3\)%\nhttp://xr8.free.fr/haelin/\1\n%p' "../$feed_name" \
+       | sed -n '2~3 p' | wget -nv -T 30 -i -
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+	echo "Downloading last episode"
+
+	sed -n 's%\(episodes/.*\.mp3\)%\nhttp://xr8.free.fr/haelin/\1\n%p' "../$feed_name" \
+       | sed -n '2~3 p' | tail -n 1 | wget -c -nv -T 30 -i -
+
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

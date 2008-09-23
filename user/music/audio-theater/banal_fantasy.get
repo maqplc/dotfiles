@@ -1,0 +1,29 @@
+#!/bin/sh
+
+local_name="banal_fantasy"
+
+feed_url="http://ledemondurire.free.fr/Creations/Sagas/BF1/Episodes.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	mkdir -p chapitre{1..6}
+
+	# Sélection des lignes avec les url des fichiers
+	# puis choix du miroir 1
+	sed -n '/Chapitre/ p' "../$feed_name" | sort \
+	| sed -n 's/^Url\[1\].*"\([^"]*\)";/\1/p' \
+	| wget -T 30 -nv -i -
+
+	for i in $(seq 6) ; do unzip -u "*$i.zip" -d "chapitre$i" ; done
+
+	rm *.zip
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

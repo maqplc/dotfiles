@@ -1,0 +1,20 @@
+#!/bin/sh
+
+local_name="explorateurs_improbable"
+
+feed_url="http://moi.renard.free.fr/explorateurs/"
+feed_name=$local_name".feed"
+
+function _new {
+
+	wget -nv -T 30 -c http://moi.renard.free.fr/explorateurs/les_explorateurs_de_l%27improbable.zip
+	unzip -u "*.zip"  ; rm *.zip
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

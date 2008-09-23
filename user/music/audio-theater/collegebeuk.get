@@ -1,0 +1,17 @@
+#!/bin/sh
+
+local_name="collegebeuk"
+
+feed_url="http://celebo.free.fr/collegebeuk/"
+feed_name=$local_name".feed"
+
+function _new {
+	wget -T 30 -nv -c http://celebo.free.fr/collegebeuk/collegebeuk{1..3}.mp3
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

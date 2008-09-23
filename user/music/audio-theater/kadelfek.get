@@ -1,0 +1,33 @@
+#!/bin/sh
+
+local_name="kadelfek"
+
+feed_url="http://www.kadelfek.com/index.php?code=episodes"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n '/Miroir MP3/ p ; /epbonus/ q' "../$feed_name"  | \
+	sed -n 's?ZIP.*href="\([^"]*\)"?\n'$website'\1\n?p' | \
+	sed -n '2~3 p' | wget -nv -B "http://www.kadelfek.com/"  -i -
+	
+	sed -n 's/\(http.*\.\(mp3\|zip\)\)/\n\1\n/p' dld.php* | sed -n '2~3 p' | wget -c -nv -i -
+	unzip -u "*.zip"
+	rm dld.php* *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+	echo "Downloading last episode"
+
+	sed -n '/Miroir MP3/ p ; /epbonus/ q' "../$feed_name"   | \
+	sed -n 's?ZIP.*href="\([^"]*\)"?\n'$website'\1\n?p' | \
+	sed -n '2~3 p' | tail -n 1 | wget -nv -B "http://www.kadelfek.com/" -i -
+	
+	sed -n 's/\(http.*\.\(mp3\|zip\)\)/\n\1\n/p' dld.php* | sed -n '2~3 p' | wget -c -nv -i -
+	unzip -u "*.zip"
+	rm dld.php* *.zip
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

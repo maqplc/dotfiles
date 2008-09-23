@@ -1,0 +1,67 @@
+audio_device_state:1:default
+state: pause
+current: 4
+time: 216
+random: 0
+repeat: 0
+crossfade: 0
+playlist_begin
+0:audio/kadelfek/Taverne-de-Kadelfek-episode_01.mp3
+1:audio/kadelfek/Taverne-de-Kadelfek-episode_02.mp3
+2:audio/kadelfek/Taverne-de-Kadelfek-episode_03.mp3
+3:audio/kadelfek/Taverne-de-Kadelfek-episode_04.mp3
+4:audio/kadelfek/Taverne-de-Kadelfek-episode_05.mp3
+5:audio/kadelfek/Taverne-de-Kadelfek-episode_06.mp3
+6:audio/kadelfek/Taverne-de-Kadelfek-episode_07.mp3
+7:audio/kadelfek/Taverne-de-Kadelfek-episode_08.mp3
+8:audio/kadelfek/Taverne-de-Kadelfek-episode_09.mp3
+9:audio/kadelfek/Taverne-de-Kadelfek-episode_10.mp3
+10:audio/kadelfek/Taverne-de-Kadelfek-episode_11.mp3
+11:audio/kadelfek/Taverne-de-Kadelfek-episode_12.mp3
+12:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 01.mp3
+13:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 02.mp3
+14:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 03.mp3
+15:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 04.mp3
+16:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 05.mp3
+17:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 06.mp3
+18:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 07.mp3
+19:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 08.mp3
+20:audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 09.mp3
+21:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 10.mp3
+22:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 11.mp3
+23:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 12.mp3
+24:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 13.mp3
+25:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 14.mp3
+26:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 15.mp3
+27:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 16.mp3
+28:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 17.mp3
+29:audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 18.mp3
+30:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 19.mp3
+31:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 20.mp3
+32:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 21.mp3
+33:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 22.mp3
+34:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 23.mp3
+35:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 24.mp3
+36:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 25.mp3
+37:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 26.mp3
+38:audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 27.mp3
+39:audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 28.mp3
+40:audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 29.mp3
+41:audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 30.mp3
+42:audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 31.mp3
+43:audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 32.mp3
+44:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 33.mp3
+45:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 34.mp3
+46:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 35.mp3
+47:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 36.mp3
+48:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 37.mp3
+49:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 38.mp3
+50:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 39.mp3
+51:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 40.mp3
+52:audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 41.mp3
+53:audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 42.mp3
+54:audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 43.mp3
+55:audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 44.mp3
+56:audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 45.mp3
+57:audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 46.mp3
+playlist_end

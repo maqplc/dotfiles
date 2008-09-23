@@ -1,0 +1,28 @@
+#!/bin/sh
+
+local_name="banal_fantasy2"
+
+feed_url="http://ledemondurire.free.fr/Creations/Sagas/BF2/Episodes.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	mkdir -p chapitre{1..4}
+
+	sed -n '/Chapitre/ p' "../$feed_name" | sort \
+	| sed -n 's/^Url\[1\].*"\([^"]*\)";/\1/p' \
+	| wget -nv -T 30 -i -
+
+	wget "http://ledemonduriremiroir5.free.fr/Banal Fantasy 2 - Episode 31.zip" ; unzip "*.zip" -d chapitre4
+
+	for i in $(seq 3) ; do unzip -u "*$i.zip" -d "chapitre$i" ; done
+
+	rm *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

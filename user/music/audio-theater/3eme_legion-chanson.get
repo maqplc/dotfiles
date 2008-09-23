@@ -1,0 +1,33 @@
+#!/bin/sh
+
+local_name="3eme_legion-chanson"
+
+feed_url="http://www.iiiemelegion.net/telecharger.php?a=2"
+feed_name=$local_name".feed"
+
+
+function _new {
+
+	#Sélection des fichiers sur le miroir principal ( sélection de la ligne 2 )
+	sed -n 's/"\(http:\/\/[^\/]*\/Legion\/[^"]*\)"/\n\1\n/pg' "../$feed_name" \
+       	| sed -n '2~6 p' | wget -nv -c -i -
+
+	unrar e "*.rar" ; rm *.rar
+	unzip -u "*.zip" ; rm *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+	echo "Downloading last song"
+
+	sed -n 's/"\(http:\/\/[^\/]*\/Legion\/[^"]*\)"/\n\1\n/pg' "../$feed_name" \
+	| sed -n '2~6 p' | tail -n 1 \
+	| wget -nv -c -i -
+
+	unrar e "*.rar" ; rm *.rar
+	unzip -u "*.zip" ; rm *.zip
+
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

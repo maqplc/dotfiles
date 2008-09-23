@@ -1,0 +1,2836 @@
+info_begin
+mpd_version: 0.13.2
+fs_charset: UTF-8
+info_end
+directory: audio
+begin: audio
+directory: 3eme_legion
+begin: audio/3eme_legion
+directory: saison1
+begin: audio/3eme_legion/saison1
+songList begin
+key: La IIIКme LВgion - Episode 1 (Partie 1).mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 1 (Partie 1).mp3
+Time: 330
+Artist: La IIIème Légion
+Title: Episode 1 : première partie
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: Other
+mtime: 1220651342
+key: La IIIКme LВgion - Episode 1 (Partie 2).mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 1 (Partie 2).mp3
+Time: 354
+Artist: La IIIème Légion
+Title: Episode 1 : seconde partie
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: Other
+mtime: 1220651344
+key: La IIIКme LВgion - Episode 10.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 10.mp3
+Time: 394
+Artist: La IIIème Légion
+Title: Episode 10
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651345
+key: La IIIКme LВgion - Episode 11.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 11.mp3
+Time: 524
+Artist: La IIIème Légion
+Title: Episode 11
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651341
+key: La IIIКme LВgion - Episode 13.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 13.mp3
+Time: 438
+Artist: La IIIème Légion
+Title: Episode 13
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651346
+key: La IIIКme LВgion - Episode 14.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 14.mp3
+Time: 397
+Artist: La IIIème Légion
+Title: Episode 14
+Album: Saison 1
+Date: 2006
+mtime: 1220651348
+key: La IIIКme LВgion - Episode 16.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 16.mp3
+Time: 447
+Artist: La IIIème Légion
+Title: Episode 16
+Album: Saison 1
+Date: 2007
+Genre: Other
+Genre: other
+mtime: 1220651343
+key: La IIIКme LВgion - Episode 17.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 17.mp3
+Time: 676
+Artist: La IIIème Légion
+Title: Episode 17
+Album: Saison 1
+Date: 2007
+Genre: Other
+Genre: other
+mtime: 1220651342
+key: La IIIКme LВgion - Episode 18.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 18.mp3
+Time: 616
+Artist: La IIIème Légion
+Title: Episode 18
+Album: Saison 1
+Date: 2007
+Genre: Other
+Genre: other
+mtime: 1220651343
+key: La IIIКme LВgion - Episode 19.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 19.mp3
+Time: 560
+Artist: La IIIème Légion
+Title: Episode 19
+Album: Saison 1
+Date: 2007
+Genre: Other
+Genre: other
+mtime: 1220651345
+key: La IIIКme LВgion - Episode 2.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 2.mp3
+Time: 364
+Artist: La IIIème Légion
+Title: Episode 2
+Album: Saison 1
+Track: 2
+Date: 2005
+Genre: Other
+Genre: Other
+mtime: 1220651341
+key: La IIIКme LВgion - Episode 3.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 3.mp3
+Time: 339
+Artist: La IIIeme Légion
+Title: Episode 3
+Album: Saison 1
+Date: 2005
+Genre: Other
+Genre: other
+mtime: 1220651342
+key: La IIIКme LВgion - Episode 4.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 4.mp3
+Time: 396
+Artist: La IIIème Légion
+Title: Episode 4
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651347
+key: La IIIКme LВgion - Episode 5.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 5.mp3
+Time: 348
+Artist: La IIIème Légion
+Title: Episode 5
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651344
+key: La IIIКme LВgion - Episode 6.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 6.mp3
+Time: 330
+Artist: La IIIème Légion
+Title: Episode 6
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: Other
+mtime: 1220651347
+key: La IIIКme LВgion - Episode 7.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 7.mp3
+Time: 410
+Artist: La IIIème Légion
+Title: Episode 7
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651348
+key: La IIIКme LВgion - Episode 8.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 8.mp3
+Time: 380
+Artist: La IIIème Légion
+Title: Episode 8
+Album: Saison 1
+Track: 8
+Date: 2006
+Genre: Other
+Genre: Other
+mtime: 1220651346
+key: La IIIКme LВgion - Episode 9.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion - Episode 9.mp3
+Time: 506
+Artist: La IIIème Légion
+Title: Episode 9
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651341
+key: La IIIКme LВgion- Episode 12.mp3
+file: audio/3eme_legion/saison1/La IIIКme LВgion- Episode 12.mp3
+Time: 504
+Artist: La IIIème Légion
+Title: Episode 12
+Album: Saison 1
+Track: 2006
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651344
+key: La IIIшme Lщgion - Episode 15.mp3
+file: audio/3eme_legion/saison1/La IIIшme Lщgion - Episode 15.mp3
+Time: 411
+Artist: La IIIème Légion
+Title: Episode 15
+Album: Saison 1
+Date: 2006
+Genre: Other
+Genre: other
+mtime: 1220651344
+key: episode 20.mp3
+file: audio/3eme_legion/saison1/episode 20.mp3
+Time: 470
+Genre: Blues
+mtime: 1220651341
+key: Вpisode21.mp3
+file: audio/3eme_legion/saison1/Вpisode21.mp3
+Time: 487
+Genre: Blues
+mtime: 1220651346
+songList end
+end: audio/3eme_legion/saison1
+directory: saison2
+begin: audio/3eme_legion/saison2
+songList begin
+key: Episode 2-1.mp3
+file: audio/3eme_legion/saison2/Episode 2-1.mp3
+Time: 410
+Artist: La IIIème Légion
+Title: Isolés
+Album: Saison 2
+Track: 1
+Date: 2007
+Genre: Other
+mtime: 1220651348
+key: ep2-2.mp3
+file: audio/3eme_legion/saison2/ep2-2.mp3
+Time: 560
+Artist: La IIIème Légion
+Title: On ne laisse personne
+Album: Saison 2
+Track: 2
+Date: 2008
+Genre: Other
+mtime: 1220651349
+songList end
+end: audio/3eme_legion/saison2
+songList begin
+songList end
+end: audio/3eme_legion
+directory: adoprixtoxis
+begin: audio/adoprixtoxis
+songList begin
+key: 01v2 - Adoprixtoxis LE NAUFRAGE.mp3
+file: audio/adoprixtoxis/01v2 - Adoprixtoxis LE NAUFRAGE.mp3
+Time: 516
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1124989856
+key: 02v2 - Adoprixtoxis RENCONTRE DU 3e TYPE.mp3
+file: audio/adoprixtoxis/02v2 - Adoprixtoxis RENCONTRE DU 3e TYPE.mp3
+Time: 845
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1184362806
+key: 03-Adoprixtoxis-ON-A-PAS-TROUVE-DE-TITRE.mp3
+file: audio/adoprixtoxis/03-Adoprixtoxis-ON-A-PAS-TROUVE-DE-TITRE.mp3
+Time: 369
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Date: 2003
+Genre: Humour
+mtime: 1060956240
+key: 04-Adoprixtoxis-LA-GRANDE-EVASION.mp3
+file: audio/adoprixtoxis/04-Adoprixtoxis-LA-GRANDE-EVASION.mp3
+Time: 451
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Date: 2003
+Genre: Humour
+mtime: 1060956660
+key: 05 - Adoprixtoxis LES EGOUTS.mp3
+file: audio/adoprixtoxis/05 - Adoprixtoxis LES EGOUTS.mp3
+Time: 511
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1075140454
+key: 06-Adoprixtoxis LA SUITE DU 5e .mp3
+file: audio/adoprixtoxis/06-Adoprixtoxis LA SUITE DU 5e .mp3
+Time: 503
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1079938354
+key: 07-Adoprixtoxis-LES ABYSSES 1.mp3
+file: audio/adoprixtoxis/07-Adoprixtoxis-LES ABYSSES 1.mp3
+Time: 481
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1085923674
+key: 08 - Adoprixtoxis LA ZONE 51.mp3
+file: audio/adoprixtoxis/08 - Adoprixtoxis LA ZONE 51.mp3
+Time: 569
+Artist: NICO&MATT
+Title: 08 - Adoprixtoxis LA ZONE 51
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1090861884
+key: 09 - Adoprixtoxis LE 9e EPISODE.mp3
+file: audio/adoprixtoxis/09 - Adoprixtoxis LE 9e EPISODE.mp3
+Time: 468
+Artist: NICO&MATT
+Title: 09 - Adoprixtoxis LE 9e EPISODE
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1102267934
+key: 10 - Adoprixtoxis GLAGLA 1.mp3
+file: audio/adoprixtoxis/10 - Adoprixtoxis GLAGLA 1.mp3
+Time: 541
+Artist: NICO&MATT
+Title: 10 - Adoprixtoxis GLAGLA
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1111949888
+key: 11 - Adoprixtoxis TERMINUS.mp3
+file: audio/adoprixtoxis/11 - Adoprixtoxis TERMINUS.mp3
+Time: 523
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1120580590
+key: 12 - Adoprixtoxis VROUM.mp3
+file: audio/adoprixtoxis/12 - Adoprixtoxis VROUM.mp3
+Time: 482
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1124639918
+key: 13 - Adoprixtoxis BLANQUETTE DE VEAU.mp3
+file: audio/adoprixtoxis/13 - Adoprixtoxis BLANQUETTE DE VEAU.mp3
+Time: 684
+Artist: NICO&MATT
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1136401602
+key: 14 - Adoprixtoxis EPAVE.mp3
+file: audio/adoprixtoxis/14 - Adoprixtoxis EPAVE.mp3
+Time: 930
+mtime: 1147363386
+key: 15 - Adoprixtoxis PHASE 2.mp3
+file: audio/adoprixtoxis/15 - Adoprixtoxis PHASE 2.mp3
+Time: 957
+Artist: NICO&MATT
+Title: 15 - Adoprixtoxis PHASE 2
+Album: Adoprixtoxis
+Genre: Humour
+mtime: 1170190284
+key: 16 - Adoprixtoxis HYPERESPACE.mp3
+file: audio/adoprixtoxis/16 - Adoprixtoxis HYPERESPACE.mp3
+Time: 1198
+Artist: NICO&MATT
+Title: 16 - Adoprixtoxis HYPERESPACE
+Album: Adoprixtoxis
+Date: 2008
+Genre: Humour
+mtime: 1202031346
+key: 17- Adoprixtoxis LE DEBUT DE LA FIN.mp3
+file: audio/adoprixtoxis/17- Adoprixtoxis LE DEBUT DE LA FIN.mp3
+Time: 1342
+Artist: NICO&MATT
+Title: 17- Adoprixtoxis LE DEBUT DE LA FIN
+Album: Adoprixtoxis
+Date: 2823
+Genre: Humour qui fait rire du trou du cucu 
+Composer: Un type...
+mtime: 1218134310
+key: Petite Pub Bonus.mp3
+file: audio/adoprixtoxis/Petite Pub Bonus.mp3
+Time: 79
+mtime: 1184349668
+songList end
+end: audio/adoprixtoxis
+directory: banal_fantasy
+begin: audio/banal_fantasy
+directory: chapitre1
+begin: audio/banal_fantasy/chapitre1
+songList begin
+key: Banal Fantasy - Episode 01.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 01.mp3
+Time: 356
+Artist: Durendal
+Title: Banal Fantasy - Episode 01
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651371
+key: Banal Fantasy - Episode 02.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 02.mp3
+Time: 395
+Artist: Durendal
+Title: Banal Fantasy - Episode 02
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651369
+key: Banal Fantasy - Episode 03.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 03.mp3
+Time: 355
+Artist: Durendal
+Title: Banal Fantasy - Episode 03
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651371
+key: Banal Fantasy - Episode 04.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 04.mp3
+Time: 352
+Artist: Durendal
+Title: Banal Fantasy - Episode 04
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651371
+key: Banal Fantasy - Episode 05.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 05.mp3
+Time: 372
+Artist: Durendal
+Title: Banal Fantasy - Episode 05
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651370
+key: Banal Fantasy - Episode 06.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 06.mp3
+Time: 380
+Artist: Durendal
+Title: Banal Fantasy - Episode 06
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651370
+key: Banal Fantasy - Episode 07.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 07.mp3
+Time: 357
+Artist: Durendal
+Title: Banal Fantasy - Episode 07
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651369
+key: Banal Fantasy - Episode 08.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 08.mp3
+Time: 330
+Artist: Durendal
+Title: Banal Fantasy - Episode 08
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651369
+key: Banal Fantasy - Episode 09.mp3
+file: audio/banal_fantasy/chapitre1/Banal Fantasy - Episode 09.mp3
+Time: 496
+Artist: Durendal
+Title: Banal Fantasy - Episode 09
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651370
+songList end
+end: audio/banal_fantasy/chapitre1
+directory: chapitre2
+begin: audio/banal_fantasy/chapitre2
+songList begin
+key: Banal Fantasy - Episode 10.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 10.mp3
+Time: 346
+Artist: Durendal
+Title: Banal Fantasy - Episode 10
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651367
+key: Banal Fantasy - Episode 11.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 11.mp3
+Time: 436
+Artist: Durendal
+Title: Banal Fantasy - Episode 11
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651368
+key: Banal Fantasy - Episode 12.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 12.mp3
+Time: 374
+Artist: Durendal
+Title: Banal Fantasy - Episode 12
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651369
+key: Banal Fantasy - Episode 13.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 13.mp3
+Time: 325
+Artist: Durendal
+Title: Banal Fantasy - Episode 13
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651367
+key: Banal Fantasy - Episode 14.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 14.mp3
+Time: 300
+Artist: Durendal
+Title: Banal Fantasy - Episode 14
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651368
+key: Banal Fantasy - Episode 15.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 15.mp3
+Time: 384
+Artist: Durendal
+Title: Banal Fantasy - Episode 15
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651367
+key: Banal Fantasy - Episode 16.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 16.mp3
+Time: 346
+Artist: Durendal
+Title: Banal Fantasy - Episode 16
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651368
+key: Banal Fantasy - Episode 17.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 17.mp3
+Time: 373
+Artist: Durendal
+Title: Banal Fantasy - Episode 17
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651367
+key: Banal Fantasy - Episode 18.mp3
+file: audio/banal_fantasy/chapitre2/Banal Fantasy - Episode 18.mp3
+Time: 371
+Artist: Durendal
+Title: Banal Fantasy - Episode 18
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651369
+songList end
+end: audio/banal_fantasy/chapitre2
+directory: chapitre3
+begin: audio/banal_fantasy/chapitre3
+songList begin
+key: Banal Fantasy - Episode 19.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 19.mp3
+Time: 327
+Artist: Durendal
+Title: Banal Fantasy - Episode 19
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651359
+key: Banal Fantasy - Episode 20.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 20.mp3
+Time: 288
+Artist: Durendal
+Title: Banal Fantasy - Episode 20
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651359
+key: Banal Fantasy - Episode 21.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 21.mp3
+Time: 378
+Artist: Durendal
+Title: Banal Fantasy - Episode 21
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651359
+key: Banal Fantasy - Episode 22.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 22.mp3
+Time: 394
+Artist: Durendal
+Title: Banal Fantasy - Episode 22
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651361
+key: Banal Fantasy - Episode 23.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 23.mp3
+Time: 366
+Artist: Durendal
+Title: Banal Fantasy - Episode 23
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651360
+key: Banal Fantasy - Episode 24.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 24.mp3
+Time: 389
+Artist: Durendal
+Title: Banal Fantasy - Episode 24
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651359
+key: Banal Fantasy - Episode 25.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 25.mp3
+Time: 463
+Artist: Durendal
+Title: Banal Fantasy - Episode 25
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651361
+key: Banal Fantasy - Episode 26.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 26.mp3
+Time: 522
+Artist: Durendal
+Title: Banal Fantasy - Episode 26
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651360
+key: Banal Fantasy - Episode 27.mp3
+file: audio/banal_fantasy/chapitre3/Banal Fantasy - Episode 27.mp3
+Time: 435
+Artist: Durendal
+Title: Banal Fantasy - Episode 27
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651361
+songList end
+end: audio/banal_fantasy/chapitre3
+directory: chapitre4
+begin: audio/banal_fantasy/chapitre4
+songList begin
+key: Banal Fantasy - Episode 28.mp3
+file: audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 28.mp3
+Time: 409
+Artist: Durendal
+Title: Banal Fantasy - Episode 28
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651362
+key: Banal Fantasy - Episode 29.mp3
+file: audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 29.mp3
+Time: 548
+Artist: Durendal
+Title: Banal Fantasy - Episode 29
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651363
+key: Banal Fantasy - Episode 30.mp3
+file: audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 30.mp3
+Time: 502
+Artist: Durendal
+Title: Banal Fantasy - Episode 30
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651362
+key: Banal Fantasy - Episode 31.mp3
+file: audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 31.mp3
+Time: 417
+Artist: Durendal
+Title: Banal Fantasy - Episode 31
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651363
+key: Banal Fantasy - Episode 32.mp3
+file: audio/banal_fantasy/chapitre4/Banal Fantasy - Episode 32.mp3
+Time: 375
+Artist: Durendal
+Title: Banal Fantasy - Episode 32
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651361
+songList end
+end: audio/banal_fantasy/chapitre4
+directory: chapitre5
+begin: audio/banal_fantasy/chapitre5
+songList begin
+key: Banal Fantasy - Episode 33.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 33.mp3
+Time: 417
+Artist: Durendal
+Title: Banal Fantasy - Episode 33
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651364
+key: Banal Fantasy - Episode 34.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 34.mp3
+Time: 331
+Artist: Durendal
+Title: Banal Fantasy - Episode 34
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651364
+key: Banal Fantasy - Episode 35.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 35.mp3
+Time: 496
+Artist: Durendal
+Title: Banal Fantasy - Episode 35
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651363
+key: Banal Fantasy - Episode 36.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 36.mp3
+Time: 464
+Artist: Durendal
+Title: Banal Fantasy - Episode 36
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651365
+key: Banal Fantasy - Episode 37.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 37.mp3
+Time: 419
+Artist: Durendal
+Title: Banal Fantasy - Episode 37
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651366
+key: Banal Fantasy - Episode 38.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 38.mp3
+Time: 422
+Artist: Durendal
+Title: Banal Fantasy - Episode 38
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651365
+key: Banal Fantasy - Episode 39.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 39.mp3
+Time: 271
+Artist: Durendal
+Title: Banal Fantasy - Episode 39
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651364
+key: Banal Fantasy - Episode 40.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 40.mp3
+Time: 404
+Artist: Durendal
+Title: Banal Fantasy - Episode 40
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651364
+key: Banal Fantasy - Episode 41.mp3
+file: audio/banal_fantasy/chapitre5/Banal Fantasy - Episode 41.mp3
+Time: 452
+Artist: Durendal
+Title: Banal Fantasy - Episode 41
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651366
+songList end
+end: audio/banal_fantasy/chapitre5
+directory: chapitre6
+begin: audio/banal_fantasy/chapitre6
+songList begin
+key: Banal Fantasy - Episode 42.mp3
+file: audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 42.mp3
+Time: 396
+Artist: Durendal
+Title: Banal Fantasy - Episode 42
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651357
+key: Banal Fantasy - Episode 43.mp3
+file: audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 43.mp3
+Time: 434
+Artist: Durendal
+Title: Banal Fantasy - Episode 43
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651358
+key: Banal Fantasy - Episode 44.mp3
+file: audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 44.mp3
+Time: 414
+Artist: Durendal
+Title: Banal Fantasy - Episode 44
+Album: Banal Fantasy
+Date: 2004
+Genre: Humour
+mtime: 1220651358
+key: Banal Fantasy - Episode 45.mp3
+file: audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 45.mp3
+Time: 425
+Artist: Durendal
+Title: Banal Fantasy - Episode 45
+Album: Banal Fantasy
+Date: 2005
+Genre: Humour
+mtime: 1220651358
+key: Banal Fantasy - Episode 46.mp3
+file: audio/banal_fantasy/chapitre6/Banal Fantasy - Episode 46.mp3
+Time: 521
+Artist: Durendal
+Title: Banal Fantasy - Episode 46
+Album: Banal Fantasy
+Date: 2005
+Genre: Humour
+mtime: 1220651357
+songList end
+end: audio/banal_fantasy/chapitre6
+songList begin
+songList end
+end: audio/banal_fantasy
+directory: banal_fantasy2
+begin: audio/banal_fantasy2
+directory: chapitre1
+begin: audio/banal_fantasy2/chapitre1
+songList begin
+key: Banal Fantasy 2 - Episode 01.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 01.mp3
+Time: 466
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 01
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651397
+key: Banal Fantasy 2 - Episode 02.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 02.mp3
+Time: 524
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 02
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651394
+key: Banal Fantasy 2 - Episode 03.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 03.mp3
+Time: 475
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 03
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651395
+key: Banal Fantasy 2 - Episode 04.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 04.mp3
+Time: 424
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 04
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651398
+key: Banal Fantasy 2 - Episode 05.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 05.mp3
+Time: 482
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 05
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651398
+key: Banal Fantasy 2 - Episode 06.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 06.mp3
+Time: 551
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 06
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651395
+key: Banal Fantasy 2 - Episode 07.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 07.mp3
+Time: 475
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 07
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651396
+key: Banal Fantasy 2 - Episode 08.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 08.mp3
+Time: 424
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 08
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651398
+key: Banal Fantasy 2 - Episode 09.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 09.mp3
+Time: 429
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 09
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651397
+key: Banal Fantasy 2 - Episode 10.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 10.mp3
+Time: 555
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 10
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651397
+key: Banal Fantasy 2 - Episode 31.mp3
+file: audio/banal_fantasy2/chapitre1/Banal Fantasy 2 - Episode 31.mp3
+Time: 704
+mtime: 1220651395
+songList end
+end: audio/banal_fantasy2/chapitre1
+directory: chapitre2
+begin: audio/banal_fantasy2/chapitre2
+songList begin
+key: Banal Fantasy 2 - Episode 11.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 11.mp3
+Time: 461
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 11
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651393
+key: Banal Fantasy 2 - Episode 12.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 12.mp3
+Time: 504
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 12
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651392
+key: Banal Fantasy 2 - Episode 13.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 13.mp3
+Time: 453
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 13
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651394
+key: Banal Fantasy 2 - Episode 14.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 14.mp3
+Time: 509
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 14
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651391
+key: Banal Fantasy 2 - Episode 15.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 15.mp3
+Time: 491
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 15
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651390
+key: Banal Fantasy 2 - Episode 16.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 16.mp3
+Time: 442
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 16
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651392
+key: Banal Fantasy 2 - Episode 17.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 17.mp3
+Time: 518
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 17
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651393
+key: Banal Fantasy 2 - Episode 18.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 18.mp3
+Time: 337
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 18
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651394
+key: Banal Fantasy 2 - Episode 19.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 19.mp3
+Time: 519
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 19
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651391
+key: Banal Fantasy 2 - Episode 20.mp3
+file: audio/banal_fantasy2/chapitre2/Banal Fantasy 2 - Episode 20.mp3
+Time: 480
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 20
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651393
+songList end
+end: audio/banal_fantasy2/chapitre2
+directory: chapitre3
+begin: audio/banal_fantasy2/chapitre3
+songList begin
+key: Banal Fantasy 2 - Episode 21.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 21.mp3
+Time: 348
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 21
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651377
+key: Banal Fantasy 2 - Episode 22.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 22.mp3
+Time: 452
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 22
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651375
+key: Banal Fantasy 2 - Episode 23.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 23.mp3
+Time: 553
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 23
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651375
+key: Banal Fantasy 2 - Episode 24.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 24.mp3
+Time: 448
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 24
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651375
+key: Banal Fantasy 2 - Episode 25.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 25.mp3
+Time: 394
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 25
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651376
+key: Banal Fantasy 2 - Episode 26.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 26.mp3
+Time: 405
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 26
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651376
+key: Banal Fantasy 2 - Episode 27.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 27.mp3
+Time: 743
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 27
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651376
+key: Banal Fantasy 2 - Episode 28.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 28.mp3
+Time: 442
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 28
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651375
+key: Banal Fantasy 2 - Episode 29.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 29.mp3
+Time: 498
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 29
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651377
+key: Banal Fantasy 2 - Episode 30.mp3
+file: audio/banal_fantasy2/chapitre3/Banal Fantasy 2 - Episode 30.mp3
+Time: 342
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 30
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651377
+songList end
+end: audio/banal_fantasy2/chapitre3
+directory: chapitre4
+begin: audio/banal_fantasy2/chapitre4
+songList begin
+key: Banal Fantasy 2 - Episode 01.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 01.mp3
+Time: 466
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 01
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651386
+key: Banal Fantasy 2 - Episode 02.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 02.mp3
+Time: 524
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 02
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651379
+key: Banal Fantasy 2 - Episode 03.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 03.mp3
+Time: 475
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 03
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651382
+key: Banal Fantasy 2 - Episode 04.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 04.mp3
+Time: 424
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 04
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651389
+key: Banal Fantasy 2 - Episode 05.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 05.mp3
+Time: 482
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 05
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651388
+key: Banal Fantasy 2 - Episode 06.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 06.mp3
+Time: 551
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 06
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651382
+key: Banal Fantasy 2 - Episode 07.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 07.mp3
+Time: 475
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 07
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651383
+key: Banal Fantasy 2 - Episode 08.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 08.mp3
+Time: 424
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 08
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651387
+key: Banal Fantasy 2 - Episode 09.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 09.mp3
+Time: 429
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 09
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651387
+key: Banal Fantasy 2 - Episode 10.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 10.mp3
+Time: 555
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 10
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651386
+key: Banal Fantasy 2 - Episode 11.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 11.mp3
+Time: 461
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 11
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651386
+key: Banal Fantasy 2 - Episode 12.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 12.mp3
+Time: 504
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 12
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651381
+key: Banal Fantasy 2 - Episode 13.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 13.mp3
+Time: 453
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 13
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651389
+key: Banal Fantasy 2 - Episode 14.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 14.mp3
+Time: 509
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 14
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651381
+key: Banal Fantasy 2 - Episode 15.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 15.mp3
+Time: 491
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 15
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651378
+key: Banal Fantasy 2 - Episode 16.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 16.mp3
+Time: 442
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 16
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651381
+key: Banal Fantasy 2 - Episode 17.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 17.mp3
+Time: 518
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 17
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651384
+key: Banal Fantasy 2 - Episode 18.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 18.mp3
+Time: 337
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 18
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651389
+key: Banal Fantasy 2 - Episode 19.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 19.mp3
+Time: 519
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 19
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651380
+key: Banal Fantasy 2 - Episode 20.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 20.mp3
+Time: 480
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 20
+Album: Banal Fantasy 2
+Date: 2005
+Genre: Humour
+mtime: 1220651382
+key: Banal Fantasy 2 - Episode 21.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 21.mp3
+Time: 348
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 21
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651389
+key: Banal Fantasy 2 - Episode 22.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 22.mp3
+Time: 452
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 22
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651384
+key: Banal Fantasy 2 - Episode 23.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 23.mp3
+Time: 553
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 23
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651380
+key: Banal Fantasy 2 - Episode 24.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 24.mp3
+Time: 448
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 24
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651383
+key: Banal Fantasy 2 - Episode 25.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 25.mp3
+Time: 394
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 25
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651385
+key: Banal Fantasy 2 - Episode 26.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 26.mp3
+Time: 405
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 26
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651388
+key: Banal Fantasy 2 - Episode 27.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 27.mp3
+Time: 743
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 27
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651385
+key: Banal Fantasy 2 - Episode 28.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 28.mp3
+Time: 442
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 28
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651379
+key: Banal Fantasy 2 - Episode 29.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 29.mp3
+Time: 498
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 29
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651390
+key: Banal Fantasy 2 - Episode 30.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 30.mp3
+Time: 342
+Artist: Durendal
+Title: Banal Fantasy 2 - Episode 30
+Album: Banal Fantasy 2
+Date: 2006
+Genre: Humour
+mtime: 1220651389
+key: Banal Fantasy 2 - Episode 31.mp3
+file: audio/banal_fantasy2/chapitre4/Banal Fantasy 2 - Episode 31.mp3
+Time: 704
+mtime: 1220651380
+songList end
+end: audio/banal_fantasy2/chapitre4
+songList begin
+songList end
+end: audio/banal_fantasy2
+directory: banal_fantasy_doc
+begin: audio/banal_fantasy_doc
+songList begin
+key: Banal Fantasy - Dirge of Cerberus - Bande Annonce.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Bande Annonce.mp3
+Time: 109
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Bande Annonce
+Album: Banal Fantasy - Dirge of Cerberus
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651406
+key: Banal Fantasy - Dirge of Cerberus - Episode 01.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Episode 01.mp3
+Time: 521
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Episode 01 - L'invasion de Kalm
+Album: Banal Fantasy - Dirge of Cerberus
+Track: 01
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651407
+key: Banal Fantasy - Dirge of Cerberus - Episode 02.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Episode 02.mp3
+Time: 507
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Episode 02 - Edge
+Album: Banal Fantasy - Dirge of Cerberus
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651407
+key: Banal Fantasy - Dirge of Cerberus - Episode 03.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Episode 03.mp3
+Time: 458
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Episode 03 - Memories of Chupeta
+Album: Banal Fantasy - Dirge of Cerberus
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651407
+key: Banal Fantasy - Dirge of Cerberus - Episode 04.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Episode 04.mp3
+Time: 490
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Episode 04 -  Siège du WRO
+Album: Banal Fantasy - Dirge of Cerberus
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651406
+key: Banal Fantasy - Dirge of Cerberus - Teaser.mp3
+file: audio/banal_fantasy_doc/Banal Fantasy - Dirge of Cerberus - Teaser.mp3
+Time: 83
+Artist: Durendal
+Title: Banal Fantasy - Dirge of Cerberus : Teaser
+Album: Banal Fantasy - Dirge of Cerberus
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651406
+songList end
+end: audio/banal_fantasy_doc
+directory: banal_fantasy_origins
+begin: audio/banal_fantasy_origins
+songList begin
+key: Banal Fantasy Origins I - Episode 01 - The Prelude.mp3
+file: audio/banal_fantasy_origins/Banal Fantasy Origins I - Episode 01 - The Prelude.mp3
+Time: 445
+Artist: Durendal
+Title: Banal Fantasy Origins I - Episode 01 - The Prelude
+Album: Banal Fantasy Origins I
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1220651412
+key: Banal Fantasy Origins I - Episode 02 - The Princess.mp3
+file: audio/banal_fantasy_origins/Banal Fantasy Origins I - Episode 02 - The Princess.mp3
+Time: 365
+Artist: Durendal
+Title: Banal Fantasy Origins I - Episode 02 - The Princess
+Album: Banal Fantasy Origins I
+Date: 2008
+Genre: Humour
+Genre: Humour
+mtime: 1220651412
+key: Banal Fantasy Origins I - Episode 03 - Mayote.mp3
+file: audio/banal_fantasy_origins/Banal Fantasy Origins I - Episode 03 - Mayote.mp3
+Time: 392
+Artist: Durendal
+Title: Banal Fantasy Origins I - Episode 03 - Mayote
+Album: Banal Fantasy Origins I
+Date: 2008
+Genre: Humour
+Genre: Humour
+mtime: 1220651413
+songList end
+end: audio/banal_fantasy_origins
+directory: banal_reality_vi
+begin: audio/banal_reality_vi
+songList begin
+key: Banal Reality VI - Episode I - Effets Secondaires.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode I - Effets Secondaires.mp3
+Time: 407
+Artist: Gorkab Nitrix
+Title: Episode I - Effets Secondaires ?
+Album: Banal Reality VI CD 1
+Track: 1/1
+Date: 2006
+Genre: Humour
+Disc: 1/1
+mtime: 1220651421
+key: Banal Reality VI - Episode II - The Grut Escape.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode II - The Grut Escape.mp3
+Time: 543
+Artist: Gorkab Nitrix
+Title: Episode II - The Grüt Escape
+Album: Banal Reality VI CD 1
+Track: 2/2
+Date: 2006
+Genre: Humour
+Disc: 1/1
+mtime: 1220651422
+key: Banal Reality VI - Episode III - Noooooon.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode III - Noooooon.mp3
+Time: 2
+Artist: Gorkab Nitrix
+Title: Noooooonnnnn !!!
+Album: Banal Reality VI Episode III
+Date: 2006
+Genre: Humour
+mtime: 1220651426
+key: Banal Reality VI - Episode III - Politiquement Geisha.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode III - Politiquement Geisha.mp3
+Time: 526
+Artist: Gorkab Nitrix
+Title: Episode III - Politiquement Geisha
+Album: Banal Reality VI CD 1
+Track: 3/3
+Date: 2006
+Genre: Humour
+Disc: 1/1
+mtime: 1220651426
+key: Banal Reality VI - Episode IV - Hard Sabine Gay.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode IV - Hard Sabine Gay.mp3
+Time: 1024
+Artist: Gorkab Nitrix
+Title: Episode IV - Hard Sabine Gay
+Album: Banal Reality VI CD 1
+Track: 4/4
+Date: 2006
+Genre: Humour
+Composer: Gorkab Nitrix
+Disc: 1/1
+mtime: 1220651426
+key: Banal Reality VI - Episode IV - Off - Mercenaire.wav
+file: audio/banal_reality_vi/Banal Reality VI - Episode IV - Off - Mercenaire.wav
+Time: 15
+mtime: 1220651427
+key: Banal Reality VI - Episode V - Octopushit.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode V - Octopushit.mp3
+Time: 805
+Artist: Gorkab Nitrix
+Title: Episode V - Octopushit
+Album: Banal Reality VI CD 1
+Track: 5/5
+Date: 2007
+Genre: Humour
+Composer: Gorkab Nitrix
+Disc: 1/1
+mtime: 1220651425
+key: Banal Reality VI - Episode VI - Partie I - Une Caresse Bien Profonde.mp3
+file: audio/banal_reality_vi/Banal Reality VI - Episode VI - Partie I - Une Caresse Bien Profonde.mp3
+Time: 1091
+Artist: Gorkab Nitrix
+Title: Episode VI - Partie I - Une Caresse Bien Profonde
+Album: Banal Reality VI CD 1
+Track: 6/6
+Date: 2007
+Genre: Humour
+Composer: Gorkab Nitrix
+Disc: 1/1
+mtime: 1220651421
+songList end
+end: audio/banal_reality_vi
+directory: escamlote
+begin: audio/escamlote
+songList begin
+key: Escamlote - Bande Annonce.mp3
+file: audio/escamlote/Escamlote - Bande Annonce.mp3
+Time: 141
+Artist: Durendal & Criboux
+Title: Escamlote - Bande Annonce
+Album: Escamlote
+Date: 2006
+Genre: Humour
+mtime: 1220651433
+key: Escamlote - Episode 01.mp3
+file: audio/escamlote/Escamlote - Episode 01.mp3
+Time: 590
+Artist: Durendal & Criboux
+Title: Escamlote - Episode 01
+Album: Escamlote
+Date: 2006
+Genre: Humour
+mtime: 1220651433
+songList end
+end: audio/escamlote
+directory: kadelfek
+begin: audio/kadelfek
+songList begin
+key: Taverne-de-Kadelfek-episode_01.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_01.mp3
+Time: 388
+Artist: King Of The Word
+Title: KDLFK-01_La Noble Quête
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042425
+key: Taverne-de-Kadelfek-episode_02.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_02.mp3
+Time: 493
+Artist: King Of The Word
+Title: KDLFK-02_Le Nain
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042425
+key: Taverne-de-Kadelfek-episode_03.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_03.mp3
+Time: 502
+Artist: King Of The Word
+Title: KDLFK-03_Le Câlin de l'amitié
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042425
+key: Taverne-de-Kadelfek-episode_04.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_04.mp3
+Time: 522
+Artist: King Of The Word
+Title: KDLFK-04_Héraldik
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042423
+key: Taverne-de-Kadelfek-episode_05.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_05.mp3
+Time: 609
+Artist: King Of The Word
+Title: KDLFK-05_La lettre
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042426
+key: Taverne-de-Kadelfek-episode_06.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_06.mp3
+Time: 603
+Artist: King Of The Word
+Title: KDLFK-06_La pièce mystérieuse
+Album: La Taverne de Kadelfek
+Date: 2004
+Genre: Saga mp3 humoristique
+mtime: 1221042423
+key: Taverne-de-Kadelfek-episode_07.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_07.mp3
+Time: 659
+Artist: King Of The Word
+Title: KDLFK-07_La Nouvelle Quête
+Album: La Taverne de Kadelfek
+Date: 2005
+Genre: Other
+mtime: 1221042426
+key: Taverne-de-Kadelfek-episode_08.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_08.mp3
+Time: 894
+Artist: King Of The Word
+Title: KDLFK-08_La Cave Merveilleuse
+Album: La Taverne de Kadelfek
+Track: 32
+Date: 2005
+Genre: Saga Mp3 Humoristique
+mtime: 1221042425
+key: Taverne-de-Kadelfek-episode_09.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_09.mp3
+Time: 798
+Artist: King Of The Word
+Title: KDLFK-09_La Vaisselle du Nain
+Album: La Taverne de Kadelfek
+Date: 2005
+Genre: Saga mp3 humoristique
+mtime: 1221042423
+key: Taverne-de-Kadelfek-episode_10.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_10.mp3
+Time: 928
+mtime: 1221042427
+key: Taverne-de-Kadelfek-episode_11.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_11.mp3
+Time: 903
+Artist: King Kadelfek (Mix=Blast)
+Title: KDLFK-11_Une nouvelle journée
+Album: La Taverne de Kadelfek
+Track: 11
+Date: 2007
+Genre: Saga mp3 humoristique
+mtime: 1221042424
+key: Taverne-de-Kadelfek-episode_12.mp3
+file: audio/kadelfek/Taverne-de-Kadelfek-episode_12.mp3
+Time: 829
+Artist: King of the Word (Mix=Blast)
+Title: KDLFK-12_La Magicienne
+Album: La Taverne de Kadelfek
+Track: 12
+Date: 2007
+Genre: Humour
+mtime: 1221042424
+songList end
+end: audio/kadelfek
+directory: naheulbeuk
+begin: audio/naheulbeuk
+directory: saison1
+begin: audio/naheulbeuk/saison1
+songList begin
+key: donjon-de-naheulbeuk01.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk01.mp3
+Time: 226
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 1
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 983797304
+key: donjon-de-naheulbeuk02.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk02.mp3
+Time: 276
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 2
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 988897668
+key: donjon-de-naheulbeuk03.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk03.mp3
+Time: 260
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 3
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 983797390
+key: donjon-de-naheulbeuk04.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk04.mp3
+Time: 310
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 4
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 983797446
+key: donjon-de-naheulbeuk05.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk05.mp3
+Time: 398
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 5
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 983797330
+key: donjon-de-naheulbeuk06.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk06.mp3
+Time: 348
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 6
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 988720384
+key: donjon-de-naheulbeuk07.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk07.mp3
+Time: 429
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 7
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 991001412
+key: donjon-de-naheulbeuk08.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk08.mp3
+Time: 508
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 8
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 999466220
+key: donjon-de-naheulbeuk09.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk09.mp3
+Time: 480
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 9
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 1008505412
+key: donjon-de-naheulbeuk10.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk10.mp3
+Time: 292
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 10
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1017691838
+key: donjon-de-naheulbeuk11.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk11.mp3
+Time: 376
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 11
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1017691790
+key: donjon-de-naheulbeuk12.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk12.mp3
+Time: 401
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 12
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1025642706
+key: donjon-de-naheulbeuk13.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk13.mp3
+Time: 385
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 13
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1034518172
+key: donjon-de-naheulbeuk14.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk14.mp3
+Time: 427
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 14
+Album: Donjon de Naheulbeuk
+Date: 2005
+Genre: Soundtrack
+mtime: 1182186340
+key: donjon-de-naheulbeuk15.mp3
+file: audio/naheulbeuk/saison1/donjon-de-naheulbeuk15.mp3
+Time: 519
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 15
+Album: Donjon de Naheulbeuk
+Date: 2003
+Genre: Soundtrack
+mtime: 1054474510
+songList end
+end: audio/naheulbeuk/saison1
+directory: saison2
+begin: audio/naheulbeuk/saison2
+songList begin
+key: donjon-de-naheulbeuk16.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk16.mp3
+Time: 519
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 16
+Album: Donjon de Naheulbeuk S2
+Date: 2003
+Genre: Soundtrack
+mtime: 1079879656
+key: donjon-de-naheulbeuk17.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk17.mp3
+Time: 468
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 17
+Album: Donjon de Naheulbeuk S2
+Date: 2004
+Genre: Soundtrack
+mtime: 1079879650
+key: donjon-de-naheulbeuk18.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk18.mp3
+Time: 606
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 18
+Album: Donjon de Naheulbeuk
+Date: 2004
+Genre: Soundtrack
+mtime: 1089566244
+key: donjon-de-naheulbeuk19.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk19.mp3
+Time: 583
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 19
+Album: Donjon de Naheulbeuk
+Date: 2004
+Genre: Soundtrack
+mtime: 1099308866
+key: donjon-de-naheulbeuk20.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk20.mp3
+Time: 540
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 20
+Album: Donjon de Naheulbeuk
+Date: 2005
+Genre: Soundtrack
+mtime: 1114465920
+key: donjon-de-naheulbeuk21-1.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk21-1.mp3
+Time: 363
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 21-1
+Album: Donjon de Naheulbeuk
+Date: 2005
+Genre: Soundtrack
+mtime: 1135119648
+key: donjon-de-naheulbeuk21-2.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk21-2.mp3
+Time: 371
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 21-2
+Album: Donjon de Naheulbeuk
+Date: 2005
+Genre: Soundtrack
+mtime: 1135119732
+key: donjon-de-naheulbeuk22.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk22.mp3
+Time: 571
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 22
+Album: Donjon de Naheulbeuk
+Date: 2006
+Genre: Soundtrack
+mtime: 1145386738
+key: donjon-de-naheulbeuk23.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk23.mp3
+Time: 544
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 23
+Album: Donjon de Naheulbeuk
+Date: 2006
+Genre: Soundtrack
+mtime: 1153851650
+key: donjon-de-naheulbeuk24.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk24.mp3
+Time: 639
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 24
+Album: Donjon de Naheulbeuk
+Date: 2006
+Genre: Soundtrack
+mtime: 1164130384
+key: donjon-de-naheulbeuk25.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk25.mp3
+Time: 591
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 25
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+mtime: 1172705112
+key: donjon-de-naheulbeuk26-1.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk26-1.mp3
+Time: 334
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 26-1
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1182188836
+key: donjon-de-naheulbeuk26-2.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk26-2.mp3
+Time: 431
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 26-2
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1182188844
+key: donjon-de-naheulbeuk27-1.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk27-1.mp3
+Time: 429
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 27-1
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1189001090
+key: donjon-de-naheulbeuk27-2.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk27-2.mp3
+Time: 282
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 27-2
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1189001094
+key: donjon-de-naheulbeuk28.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk28.mp3
+Time: 663
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 28
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1196100640
+key: donjon-de-naheulbeuk29.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk29.mp3
+Time: 431
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 29
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1203602286
+key: donjon-de-naheulbeuk30-1.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk30-1.mp3
+Time: 578
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 30-1
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+mtime: 1210071350
+key: donjon-de-naheulbeuk30-2.mp3
+file: audio/naheulbeuk/saison2/donjon-de-naheulbeuk30-2.mp3
+Time: 662
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk 30-2
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+mtime: 1210072032
+songList end
+end: audio/naheulbeuk/saison2
+songList begin
+songList end
+end: audio/naheulbeuk
+directory: naheulbeuk-bonus
+begin: audio/naheulbeuk-bonus
+songList begin
+key: Crevetola-liveloco.mp3
+file: audio/naheulbeuk-bonus/Crevetola-liveloco.mp3
+Time: 115
+Artist: POC et le Naheulband
+Title: Crevetola en live
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+Composer: Pen of Chaos
+Performer: Pen of Chaos
+mtime: 1176193416
+key: Durandil-liveloco.mp3
+file: audio/naheulbeuk-bonus/Durandil-liveloco.mp3
+Time: 144
+Artist: POC et le Naheulband
+Title: Les épées Durandil en live
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+Composer: Pen of Chaos
+Performer: Pen of Chaos
+mtime: 1176193328
+key: NBK-Sonnerie01-casonne.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie01-casonne.mp3
+Time: 13
+mtime: 1157899608
+key: NBK-Sonnerie02-peluchedunain.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie02-peluchedunain.mp3
+Time: 11
+mtime: 1157899608
+key: NBK-Sonnerie03-rangerprisonnier.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie03-rangerprisonnier.mp3
+Time: 14
+mtime: 1157899608
+key: NBK-Sonnerie04-elfechante.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie04-elfechante.mp3
+Time: 12
+mtime: 1157899608
+key: NBK-Sonnerie05-magotteimpatiente.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie05-magotteimpatiente.mp3
+Time: 11
+mtime: 1157899610
+key: NBK-Sonnerie06-gurdilkazoo.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie06-gurdilkazoo.mp3
+Time: 8
+mtime: 1157899610
+key: NBK-Sonnerie07-gurdilkazoo02.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie07-gurdilkazoo02.mp3
+Time: 11
+mtime: 1157899610
+key: NBK-Sonnerie08-barbarenain.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie08-barbarenain.mp3
+Time: 8
+mtime: 1197652406
+key: NBK-Sonnerie09-gobelin.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie09-gobelin.mp3
+Time: 8
+mtime: 1197652406
+key: NBK-Sonnerie10-niveaudunain.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie10-niveaudunain.mp3
+Time: 9
+mtime: 1197652406
+key: NBK-Sonnerie11-reveiltambourin.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie11-reveiltambourin.mp3
+Time: 7
+mtime: 1197652406
+key: NBK-Sonnerie12-tildidibah.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie12-tildidibah.mp3
+Time: 9
+mtime: 1197652406
+key: NBK-Sonnerie13-zangdar.mp3
+file: audio/naheulbeuk-bonus/NBK-Sonnerie13-zangdar.mp3
+Time: 10
+mtime: 1197652406
+key: donjon-BA-couettedeloubli.mp3
+file: audio/naheulbeuk-bonus/donjon-BA-couettedeloubli.mp3
+Time: 241
+Artist: Pen of Chaos
+Title: Donjon BA Couette de l'Oubli
+Album: Donjon de Naheulbeuk
+Date: 2008
+Genre: Soundtrack
+mtime: 1211886860
+key: donjon-ba.mp3
+file: audio/naheulbeuk-bonus/donjon-ba.mp3
+Time: 94
+Artist: Pen of Chaos
+Title: Bande annonce Naheulbeuk
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 988808426
+key: donjon-elysee.mp3
+file: audio/naheulbeuk-bonus/donjon-elysee.mp3
+Time: 142
+Artist: Pen of Chaos
+Title: Donjon de Naheulbeuk Elysee
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1019165020
+key: donjon-lesscenescoupees.mp3
+file: audio/naheulbeuk-bonus/donjon-lesscenescoupees.mp3
+Time: 211
+Artist: Pen of Chaos, Knarf, Darkam
+Title: Naheulbeuk - Scenes Coupees
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1031493622
+key: donjon-lesscenescoupees02.mp3
+file: audio/naheulbeuk-bonus/donjon-lesscenescoupees02.mp3
+Time: 355
+Artist: Pen of Chaos/Knarf/Darkam/Zaz
+Title: Naheulbeuk - Scenes Coupees 2
+Album: Donjon de Naheulbeuk
+Date: 2004
+Genre: Soundtrack
+mtime: 1074721334
+key: donjon-pub-chiantos.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-chiantos.mp3
+Time: 109
+Artist: Pen of Chaos
+Title: Donjon Pub - Chiantos
+Album: Donjon de Naheulbeuk
+Date: 2004
+Genre: Soundtrack
+mtime: 1087131816
+key: donjon-pub-crevetola01.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-crevetola01.mp3
+Time: 93
+Artist: Pen of Chaos
+Title: Donjon Pub - Crevetola
+Album: Donjon de Naheulbeuk
+Date: 2003
+Genre: Soundtrack
+mtime: 1061917434
+key: donjon-pub-durandil.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-durandil.mp3
+Time: 69
+Artist: Pen of Chaos
+Title: Epees Durandil Pub Naheulbeuk
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1022245472
+key: donjon-pub-facile.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-facile.mp3
+Time: 67
+Artist: Pen of Chaos
+Title: Donjon Facile pub Naheulbeuk
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 996422048
+key: donjon-pub-gorzyne.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-gorzyne.mp3
+Time: 102
+Artist: Pen of Chaos
+Title: Gorzyne pub Naheulbeuk
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1014801948
+key: donjon-pub-lebohaum.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-lebohaum.mp3
+Time: 44
+Artist: Pen of Chaos
+Title: Donjon - Casques Lebohaum
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 991206266
+key: donjon-pub-loreliane01.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-loreliane01.mp3
+Time: 97
+Artist: Pen of Chaos
+Title: Loreliane pub Naheulbeuk
+Album: Donjon de Naheulbeuk
+Date: 2005
+Genre: Soundtrack
+mtime: 1104954924
+key: donjon-pub-massespaf01.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-massespaf01.mp3
+Time: 42
+Artist: Pen of Chaos
+Title: Masses PAF 01 pub Naheulbeuk
+Album: A poil dans la forêt
+Genre: Folklore
+mtime: 1215168276
+key: donjon-pub-massespaf02.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-massespaf02.mp3
+Time: 44
+Artist: Pen of Chaos
+Title: Masses PAF 02 pub Naheulbeuk
+Album: A poil dans la forêt
+Genre: Folklore
+mtime: 1215168286
+key: donjon-pub-massespaf03.mp3
+file: audio/naheulbeuk-bonus/donjon-pub-massespaf03.mp3
+Time: 54
+Artist: Pen of Chaos
+Title: Masses PAF 03 pub Naheulbeuk
+Album: A poil dans la forêt
+Genre: Folklore
+mtime: 1215168292
+key: donjon-quebec.mp3
+file: audio/naheulbeuk-bonus/donjon-quebec.mp3
+Time: 65
+Artist: Pen of Chaos
+Title: Naheulbeuk au Québec
+Album: Donjon de Naheulbeuk
+Date: 2003
+Genre: Soundtrack
+mtime: 1065733618
+key: donjon-repondeurs.mp3
+file: audio/naheulbeuk-bonus/donjon-repondeurs.mp3
+Time: 125
+Artist: Pen of Chaos
+Title: Donjon - les répondeurs cons
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 1006208354
+key: laviedaventurier.mp3
+file: audio/naheulbeuk-bonus/laviedaventurier.mp3
+Time: 190
+Artist: Pen of Chaos
+Title: La vie d'aventurier
+Album: Donjon de Naheulbeuk
+Date: 2008
+Genre: Celtic
+mtime: 1215538110
+songList end
+end: audio/naheulbeuk-bonus
+directory: naheulbeuk-chanson
+begin: audio/naheulbeuk-chanson
+songList begin
+key: donjon-Massacronsnousdanslataverne.mp3
+file: audio/naheulbeuk-chanson/donjon-Massacronsnousdanslataverne.mp3
+Time: 163
+Artist: Donjon de Naheulbeuk
+Title: Massacrons-nous dans la taverne
+Album: À poil dans la forêt...
+Track: 8
+Date: 2005
+Genre: Humour
+mtime: 1145523546
+key: donjon-alaventure.mp3
+file: audio/naheulbeuk-chanson/donjon-alaventure.mp3
+Time: 176
+Artist: Pen of Chaos
+Title: A l'aventure, compagnons
+Album: Donjon de Naheulbeuk
+Date: 2001
+Genre: Soundtrack
+mtime: 1004306800
+key: donjon-beatlesrevenge.mp3
+file: audio/naheulbeuk-chanson/donjon-beatlesrevenge.mp3
+Time: 6
+Artist: Pen of Chaos
+Title: Beatles Revenge
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1197652752
+key: donjon-chaussettes-du-nain.mp3
+file: audio/naheulbeuk-chanson/donjon-chaussettes-du-nain.mp3
+Time: 8
+Artist: Pen of Chaos
+Title: Les Chaussettes du Nain
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1197478354
+key: donjon-le-vieux-gildas.mp3
+file: audio/naheulbeuk-chanson/donjon-le-vieux-gildas.mp3
+Time: 76
+Artist: Pen of Chaos
+Title: Le Vieux Gildas
+Album: Donjon de Naheulbeuk
+Date: 2008
+Genre: Celtic
+mtime: 1217084590
+key: donjon-letalent.mp3
+file: audio/naheulbeuk-chanson/donjon-letalent.mp3
+Time: 17
+Artist: Pen of Chaos
+Title: Le talent
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1197478342
+key: donjon-marchebarbare.mp3
+file: audio/naheulbeuk-chanson/donjon-marchebarbare.mp3
+Time: 210
+Artist: Pen of Chaos
+Title: Marche Barbare
+Album: A poil dans la forêt
+Date: 2005
+Genre: Folklore
+mtime: 1118312962
+key: donjon-newtrollfarceur.mp3
+file: audio/naheulbeuk-chanson/donjon-newtrollfarceur.mp3
+Time: 173
+Artist: Pen of Chaos
+Title: Troll farceur (Studio) V2
+Album: Donjon de Naheulbeuk
+Date: 2002
+Genre: Soundtrack
+mtime: 1020616202
+key: donjon-polka-du-menestrel.mp3
+file: audio/naheulbeuk-chanson/donjon-polka-du-menestrel.mp3
+Time: 21
+Artist: Pen of Chaos
+Title: Polka du Menestrel
+Album: Donjon de Naheulbeuk
+Date: 2008
+Genre: Celtic
+mtime: 1219244736
+key: donjon-rienadire.mp3
+file: audio/naheulbeuk-chanson/donjon-rienadire.mp3
+Time: 11
+Artist: Pen of Chaos
+Title: Rien à dire
+Album: Donjon de Naheulbeuk
+Date: 2007
+Genre: Soundtrack
+Genre: Soundtrack
+mtime: 1197652762
+songList end
+end: audio/naheulbeuk-chanson
+directory: rda
+begin: audio/rda
+songList begin
+key: RDA01.mp3
+file: audio/rda/RDA01.mp3
+Time: 825
+Title: Reflets d'Acide !
+mtime: 1077490988
+key: RDA02.mp3
+file: audio/rda/RDA02.mp3
+Time: 770
+Title: Reflets d'Acide - Episode 2
+Genre: Blues
+mtime: 1064667854
+key: RDA03.mp3
+file: audio/rda/RDA03.mp3
+Time: 1022
+mtime: 1112545186
+key: RDA04.mp3
+file: audio/rda/RDA04.mp3
+Time: 616
+Title: Reflets d'Acide - épisode 4 -
+Genre: Blues
+mtime: 1043081426
+key: RDA05.mp3
+file: audio/rda/RDA05.mp3
+Time: 785
+Artist: JBX
+Title: Reflets d'Acide - Episode 5 - Le biavouac...tion !
+Album: REFLETS D'ACIDE
+Genre: Parodie
+mtime: 1074974762
+key: RDA06.mp3
+file: audio/rda/RDA06.mp3
+Time: 757
+Genre: Blues
+mtime: 1071326472
+key: RDA07.mp3
+file: audio/rda/RDA07.mp3
+Time: 808
+Artist: JBX
+Title: Episode 7 - Le Mont Mucus
+Album: Reflets D'Acide !
+Date: 2004
+Genre: Acid
+mtime: 1085682118
+key: RDA08.mp3
+file: audio/rda/RDA08.mp3
+Time: 1005
+mtime: 1094316648
+key: RDA09.mp3
+file: audio/rda/RDA09.mp3
+Time: 1291
+Title: Reflets d'Acide - Episode 9 - Enigme dans l'abîme - par JBX
+Genre: Other
+mtime: 1108249758
+key: RDA10.mp3
+file: audio/rda/RDA10.mp3
+Time: 1593
+Artist: JBX
+Title: Reflets d'Acide - Episode 10 - La Croisée des Chemins
+Date: 7 ao
+Genre: Saga mp3
+mtime: 1123437494
+key: RDA11.mp3
+file: audio/rda/RDA11.mp3
+Time: 2124
+Title: Reflets d'Acide - Episode 11 - L'elfe et la prison brisée... (par JBX)
+Genre: Other
+mtime: 1139692350
+key: RDA12.mp3
+file: audio/rda/RDA12.mp3
+Time: 2575
+mtime: 1176847488
+key: RDA13.mp3
+file: audio/rda/RDA13.mp3
+Time: 3248
+Artist: JBX
+Title: Dies irae, dies illa...
+Album: Reflets d'Acide
+Track: 13
+Date: 2008
+Genre: Saga rôlistico-médiévalo-fantastique
+mtime: 1208456738
+songList end
+end: audio/rda
+directory: survivaure
+begin: audio/survivaure
+songList begin
+key: bande_annonce_survivaure.mp3
+file: audio/survivaure/bande_annonce_survivaure.mp3
+Time: 207
+Artist: Nurgle & Knarf
+Title: SURVIVAURE - Bande annonce
+Date: 2001
+Genre: Humour
+mtime: 1071880382
+key: survivaure_episode_1.mp3
+file: audio/survivaure/survivaure_episode_1.mp3
+Time: 236
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 1
+Date: 2002
+Genre: Humour
+mtime: 1017483596
+key: survivaure_episode_10.mp3
+file: audio/survivaure/survivaure_episode_10.mp3
+Time: 745
+Artist: Knarfworld.net
+Title: Survivaure - Episode 10
+Album: Les Aventuriers du Survivaure
+Date: 2006
+Genre: Humour
+Genre: Humour
+mtime: 1154879556
+key: survivaure_episode_11.mp3
+file: audio/survivaure/survivaure_episode_11.mp3
+Time: 989
+Artist: Knarfworld.net
+Title: Survivaure - Episode 11
+Album: Les Aventuriers du Survivaure
+Date: 2006
+Genre: Humour
+Genre: Humour
+mtime: 1165774158
+key: survivaure_episode_12.mp3
+file: audio/survivaure/survivaure_episode_12.mp3
+Time: 839
+Artist: Knarfworld.net
+Title: Survivaure - Episode 12
+Album: Les Aventuriers du Survivaure
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1180045550
+key: survivaure_episode_13.mp3
+file: audio/survivaure/survivaure_episode_13.mp3
+Time: 658
+Artist: Knarfworld.net
+Title: Survivaure - Episode 13
+Date: 2007
+Genre: Humour
+Genre: Humour
+mtime: 1185100440
+key: survivaure_episode_14.mp3
+file: audio/survivaure/survivaure_episode_14.mp3
+Time: 970
+Artist: Knarfworld.net
+Title: Survivaure - Episode 14
+Date: 2008
+Genre: Humour
+mtime: 1204468038
+key: survivaure_episode_2.mp3
+file: audio/survivaure/survivaure_episode_2.mp3
+Time: 326
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 2
+Date: 2002
+Genre: Humour
+mtime: 1017786660
+key: survivaure_episode_3.mp3
+file: audio/survivaure/survivaure_episode_3.mp3
+Time: 501
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 3
+Date: 2002
+Genre: Humour
+mtime: 1023235430
+key: survivaure_episode_4.mp3
+file: audio/survivaure/survivaure_episode_4.mp3
+Time: 501
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 4
+Date: 2003
+Genre: Humour
+mtime: 1052076700
+key: survivaure_episode_5.mp3
+file: audio/survivaure/survivaure_episode_5.mp3
+Time: 389
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 5
+Date: 2003
+Genre: Humour
+mtime: 1067197402
+key: survivaure_episode_5_et_demie.mp3
+file: audio/survivaure/survivaure_episode_5_et_demie.mp3
+Time: 434
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 5 et 1/2
+Date: 2003
+Genre: Humour
+mtime: 1072554320
+key: survivaure_episode_6.mp3
+file: audio/survivaure/survivaure_episode_6.mp3
+Time: 478
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 6
+Date: 2004
+Genre: Humour
+mtime: 1082051582
+key: survivaure_episode_7.mp3
+file: audio/survivaure/survivaure_episode_7.mp3
+Time: 490
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 7
+Date: 2005
+Genre: Humour
+mtime: 1106926110
+key: survivaure_episode_8.mp3
+file: audio/survivaure/survivaure_episode_8.mp3
+Time: 587
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 8
+Date: 2005
+Genre: Humour
+mtime: 1124221572
+key: survivaure_episode_9.mp3
+file: audio/survivaure/survivaure_episode_9.mp3
+Time: 700
+Artist: Nurgle & Knarf
+Title: Survivaure - Episode 9
+Date: 2006
+Genre: Humour
+mtime: 1144491354
+songList end
+end: audio/survivaure
+directory: survivaure-bonus
+begin: audio/survivaure-bonus
+songList begin
+key: elle-est-partie.mp3
+file: audio/survivaure-bonus/elle-est-partie.mp3
+Time: 303
+Artist: Le Naheulband dans l'Espace
+Title: Elle est partie
+Date: 2005
+Genre: Humour
+mtime: 1105566190
+key: pub-lost-frontier-1.mp3
+file: audio/survivaure-bonus/pub-lost-frontier-1.mp3
+Time: 42
+Artist: Knarfworld.net
+Title: Pub Lost Frontier 1
+Album: Les Publicités du Consortium
+Date: 2007
+Genre: Comedy
+Genre: Comedy
+mtime: 1197222710
+key: pub-spatio-bricolo.mp3
+file: audio/survivaure-bonus/pub-spatio-bricolo.mp3
+Time: 122
+Artist: Knarfworld.net
+Title: Pub Spatio Bricolo
+Album: Les Publicités du Consortium
+Date: 2007
+Genre: Comedy
+Genre: Comedy
+mtime: 1197222732
+songList end
+end: audio/survivaure-bonus
+directory: tour_de_baal
+begin: audio/tour_de_baal
+songList begin
+key: Episode1.mp3
+file: audio/tour_de_baal/Episode1.mp3
+Time: 823
+Artist: Latourdebaal-Team
+Title: Episode1-Latourdebaal
+Album: La tour de Baal
+Track: 1
+Date: 2005
+Genre: Disco
+mtime: 1219702792
+key: Episode2.mp3
+file: audio/tour_de_baal/Episode2.mp3
+Time: 1043
+Artist: Latourdebaal-Team
+Title: Episode2-Latourdebaal
+Album: La tour de baal
+Track: 2
+Date: 2005
+Genre: Disco
+mtime: 1111409180
+key: Episode3.mp3
+file: audio/tour_de_baal/Episode3.mp3
+Time: 813
+Artist: Latourdebaal-team
+Title: Episode3-La tour de Baal
+Album: La tour de Baal
+Track: 03
+Date: 2005
+Genre: Disco
+mtime: 1111261391
+key: Episode4.mp3
+file: audio/tour_de_baal/Episode4.mp3
+Time: 847
+Artist: Latourdebaal-team
+Title: Episode4-La tour de Baal
+Album: La tour de Baal
+Track: 4
+Date: 2005
+Genre: Disco
+mtime: 1113836391
+key: Episode5.mp3
+file: audio/tour_de_baal/Episode5.mp3
+Time: 1264
+Artist: Latourdebaal-team
+Title: Episode5-La tour de Baal
+Album: La tour de Baal
+Track: 5
+Date: 2005
+Genre: Disco
+mtime: 1118223971
+key: Episode6.mp3
+file: audio/tour_de_baal/Episode6.mp3
+Time: 997
+Artist: Latourdebaal-team
+Title: Episode6-La tour de Baal
+Album: La tour de Baal
+Track: 6
+Date: 2005
+Genre: Disco
+mtime: 1126272180
+key: Episode7.mp3
+file: audio/tour_de_baal/Episode7.mp3
+Time: 967
+Artist: Latourdebaal-Team
+Title: Episode7-Latourdebaal
+Album: La tour de Baal
+Track: 7
+Date: 2005
+Genre: Black Metal
+mtime: 1131918198
+key: Episode8.mp3
+file: audio/tour_de_baal/Episode8.mp3
+Time: 986
+Artist: Latourdebaal-Team
+Title: Latourdebaal8
+Album: La tour de Baal
+Track: 8
+Date: 2007
+Genre: Polka
+mtime: 1172437947
+key: Episode9.mp3
+file: audio/tour_de_baal/Episode9.mp3
+Time: 2132
+Artist: Latourdebaal-Team
+Title: Episode9-Latourdebaal
+Album: La tour de Baal
+Track: 9
+Date: 2008
+Genre: Polka
+mtime: 1206910331
+songList end
+end: audio/tour_de_baal
+directory: tour_de_baal-bonus
+begin: audio/tour_de_baal-bonus
+songList begin
+key: Amorce.mp3
+file: audio/tour_de_baal-bonus/Amorce.mp3
+Time: 46
+Artist: Latourdebaal-Team
+Title: Amorce-Latourdebaal
+Album: La tour de Baal
+Track: 0
+Date: 2005
+Genre: Techno
+mtime: 1114977462
+key: Ancienepisode1.mp3
+file: audio/tour_de_baal-bonus/Ancienepisode1.mp3
+Time: 705
+Artist: Latourdebaal-Team
+Title: Episode 1-La tour de Baal
+Album: La tour de Baal
+Track: 01
+Date: 2004
+Genre: Disco
+mtime: 1103996293
+key: Betisier.mp3
+file: audio/tour_de_baal-bonus/Betisier.mp3
+Time: 924
+Artist: Latourdebaal-Team
+Title: Betisier-Latourdebaal
+Album: La tour de Baal
+Track: 0
+Date: 2005
+Genre: Avantgarde
+mtime: 1219702237
+key: Informatique.mp3
+file: audio/tour_de_baal-bonus/Informatique.mp3
+Time: 230
+Artist: Latourdebaal-Team
+Title: Informatique-Latourdebaal
+Album: La Tour de Baal
+Track: 0
+Date: 2006
+Genre: Alternative
+mtime: 1167065555
+key: Pendu.mp3
+file: audio/tour_de_baal-bonus/Pendu.mp3
+Time: 154
+mtime: 1125263783
+key: Pub-Dimmu.mp3
+file: audio/tour_de_baal-bonus/Pub-Dimmu.mp3
+Time: 98
+Artist: Latourdebaal-team
+Title: Publicite Dimmu Burger-LTDB
+Album: La tour de Baal
+Track: 3
+Date: 2005
+Genre: Acid
+mtime: 1111407962
+key: Pub-squeek.mp3
+file: audio/tour_de_baal-bonus/Pub-squeek.mp3
+Time: 93
+Artist: Latourdebaal-Team
+Title: Publicite Squeek-LTDB
+Album: La tour de Baal
+Track: 02
+Date: 2004
+Genre: Disco
+mtime: 1103995359
+key: Roue.mp3
+file: audio/tour_de_baal-bonus/Roue.mp3
+Time: 149
+mtime: 1123188239
+key: jdr01.mp3
+file: audio/tour_de_baal-bonus/jdr01.mp3
+Time: 283
+Genre: Other
+mtime: 1167066233
+songList end
+end: audio/tour_de_baal-bonus
+songList begin
+songList end
+end: audio
+songList begin
+songList end

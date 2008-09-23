@@ -1,0 +1,34 @@
+#!/bin/sh
+
+local_name="adoprixtoxis-bonus"
+
+feed_url="http://adoprixtoxis.free.fr/telechargementmp3.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	awk 'BEGIN { found = 0 } 
+		/Les bonus/ { found = 1} 
+		/zip/ { if ( found == 1) {print $0} }' "../$feed_name" \
+	| sed -n 's%\(http://[^/]*/telechargement/adop-MP3/.*\.zip\)%\n\1\n%p' \
+	| sed -n '2~3 p' | wget -T 30 -nv -i -
+
+	unzip -u "*.zip" ; rm *.zip
+}
+
+
+function _update {
+
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+	echo "Downloading last bonus"
+
+	awk 'BEGIN { found = 0 } 
+		/Les bonus/ { found = 1} 
+		/zip/ { if ( found == 1) {print $0} }' "../$feed_name" \
+	| sed -n 's%\(http://[^/]*/telechargement/adop-MP3/.*\.zip\)%\n\1\n%p' \
+	| sed -n '2~3 p' | tail -n 1 | wget -T 30 -nv -i -
+
+	unzip -u "*.zip" ; rm *.zip
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

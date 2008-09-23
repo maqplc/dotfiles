@@ -1,0 +1,21 @@
+#!/bin/sh
+
+local_name="peuple_terre_du_milieu"
+
+feed_url="http://bink.over-blog.com/categorie-10219860.html"
+feed_name=$local_name".feed"
+
+function _new {
+
+	wget -nv -T 30 -c "http://binkgestone.free.fr/Peuple-de-la-Terre-du-Milieu(Episodes-et-%20Bonus).rar"
+
+	unrar e "*.rar" ; rm *.rar
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

@@ -1,0 +1,33 @@
+#!/bin/sh
+
+local_name="8bit_dungeon"
+
+feed_url="http://nuklearpower.com/archive.php"
+feed_name=$local_name".feed"
+
+
+function _new {
+	sed -n 's/<BR><BR>/\n/gp' "../$feed_name" |  sed -n 's§<a href="\(daily.php?date=[0-9]*\)"\(.*\)§\1§p' \
+	| wget -B "http://www.nuklearpower.com" -c -i -
+
+	sed -n 's/\(comics\/[0-9]\{6\}\.[a-z]*\)/\n\1\n/p' daily.php* | sed -n '2~3 p' \
+	| wget -B "http://www.nuklearpower.com" -c -i -
+
+	rm daily.php*
+}
+
+
+function _update {
+	echo -e "Getting last ten comics"	
+
+	sed -n 's/<BR><BR>/\n/gp' "../$feed_name" \
+	| sed -n 's§<a href="\(daily.php?date=[0-9]*\)"\(.*\)§\1§p' \
+	| tail -n 10 \
+	| wget -B "http://www.nuklearpower.com" -c -i -
+
+	sed -n 's/\(comics\/[0-9]\{6\}\.[a-z]*\)/\n\1\n/p' daily.php* | sed -n '2~3 p' 
+	| wget -B "http://www.nuklearpower.com" -c -i -
+
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

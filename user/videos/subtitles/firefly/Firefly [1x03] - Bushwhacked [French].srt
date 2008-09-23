@@ -1,0 +1,2111 @@
+1
+00:00:12,840 --> 00:00:14,640
+Trop grand pour toi!
+
+2
+00:00:15,480 --> 00:00:16,600
+- Jayne!
+- Nabot!
+
+3
+00:00:40,360 --> 00:00:41,400
+Bonjour.
+
+4
+00:00:42,240 --> 00:00:43,840
+Qui gagne?
+
+5
+00:00:44,680 --> 00:00:45,760
+Je ne sais pas trop.
+
+6
+00:00:46,600 --> 00:00:48,760
+Ils ne semblent pas suivre de règles civilisées.
+
+7
+00:00:49,600 --> 00:00:51,280
+Nous sommes loin de la civilisation.
+
+8
+00:00:53,760 --> 00:00:54,760
+Comment va votre soeur?
+
+9
+00:00:55,600 --> 00:00:56,720
+Ça va.
+Mieux.
+
+10
+00:00:57,560 --> 00:00:58,520
+Ça dépend des jours.
+
+11
+00:00:59,360 --> 00:01:03,400
+Elle ne parle toujours pas de ce qui s'est passé à l'école.
+
+12
+00:01:04,240 --> 00:01:05,480
+Peut-être qu'elle ne le sait pas elle même.
+
+13
+00:01:10,240 --> 00:01:12,960
+Elle en rêve. Je sais déjà ça.
+
+14
+00:01:13,800 --> 00:01:15,400
+Des cauchemars.
+
+15
+00:01:16,240 --> 00:01:17,960
+Et maintenant que nous sommes en fuite...
+
+16
+00:01:18,800 --> 00:01:20,840
+je ne sais pas si je pourrai l'aider.
+
+17
+00:01:22,640 --> 00:01:23,480
+Simon, vous l'aidez.
+
+18
+00:01:24,320 --> 00:01:25,720
+Abandonner votre monde pour elle...
+
+19
+00:01:26,560 --> 00:01:28,360
+c'est incroyablement généreux.
+
+20
+00:01:29,200 --> 00:01:30,280
+Ouais.
+
+21
+00:01:31,120 --> 00:01:33,560
+Grace à moi, nous voilà devenus des fugitifs recherchés.
+
+22
+00:01:34,400 --> 00:01:35,880
+Nous cherchons tous à echapper à quelque chose.
+
+23
+00:01:41,920 --> 00:01:42,520
+Alerte de proximité.
+
+24
+00:01:42,880 --> 00:01:43,880
+Y'a un truc proche.
+
+25
+00:01:44,720 --> 00:01:46,040
+Mon Dieu! Qu'est-ce que ça peut être?
+
+26
+00:01:46,880 --> 00:01:49,080
+On est fichus! Qui est aux commandes?
+
+27
+00:01:49,920 --> 00:01:51,000
+Ah, ouais. C'est moi.
+
+28
+00:01:51,840 --> 00:01:53,480
+Allez, au boulot.
+
+29
+00:01:54,320 --> 00:01:57,480
+- Il nous manque un homme.
+- Il te manque toujours un homme.
+
+30
+00:02:01,040 --> 00:02:03,320
+Éh, Doc! Vous voulez jouer avec nous?
+
+31
+00:02:04,160 --> 00:02:05,280
+Si Inara est d'accord.
+
+32
+00:02:24,680 --> 00:02:26,400
+Wash! T'as eu une attaque?
+
+33
+00:02:27,240 --> 00:02:29,120
+- Pas loin.
+- C'était quoi?
+
+34
+00:02:34,240 --> 00:02:35,720
+Y'a quelqu'un?
+
+35
+00:02:36,560 --> 00:02:39,080
+J'appelle, mais si ils sont tous aussi vivant...
+
+36
+00:02:39,880 --> 00:02:41,800
+y'aura pas grand monde pour répondre.
+
+37
+00:02:42,640 --> 00:02:44,040
+Rapproche-nous un peu.
+
+38
+00:02:44,880 --> 00:02:46,920
+Je t'amène sur le paillasson.
+
+39
+00:02:47,760 --> 00:02:48,920
+Qu'est-ce que c'est?
+
+40
+00:02:54,080 --> 00:02:55,200
+Un fantôme.
+
+41
+00:02:59,920 --> 00:03:02,200
+~ Take my love, take my land ~
+
+42
+00:03:02,760 --> 00:03:05,600
+~ Take me where I cannot stand ~
+
+43
+00:03:06,160 --> 00:03:08,320
+~ I don't care, I'm still free ~
+
+44
+00:03:08,880 --> 00:03:12,400
+~ You can't take the sky from me ~
+
+45
+00:03:12,960 --> 00:03:14,960
+~ Take me out to the black ~
+
+46
+00:03:15,520 --> 00:03:17,000
+~ Tell them I ain't comin'back ~
+
+47
+00:03:18,800 --> 00:03:21,120
+~ Burn the land and boil the sea ~
+
+48
+00:03:21,680 --> 00:03:24,720
+~ You can't take the sky from me ~
+
+49
+00:03:33,720 --> 00:03:35,880
+~ There's no place I can be ~
+
+50
+00:03:36,400 --> 00:03:39,120
+~ Since I've found serenity ~
+
+51
+00:03:39,680 --> 00:03:42,560
+~ But you can't take the sky from me ~
+
+52
+00:03:49,680 --> 00:03:51,720
+Alors c'est quoi? Un cargo?
+
+53
+00:03:52,560 --> 00:03:56,200
+Probablement un remorqueur.
+
+54
+00:03:57,040 --> 00:03:58,520
+Il est pas garé, en tout cas.
+
+55
+00:03:59,360 --> 00:04:02,720
+Il lui manque un propulseur à bâbord.
+
+56
+00:04:03,560 --> 00:04:05,200
+Un vaisseau à courte portée, si loin?
+
+57
+00:04:06,040 --> 00:04:07,120
+Il a été modifié pour transporter des passagers.
+
+58
+00:04:07,960 --> 00:04:09,080
+Ils sont vendus aux enchères.
+
+59
+00:04:09,920 --> 00:04:10,920
+Quelques modifications...
+
+60
+00:04:11,760 --> 00:04:13,120
+et ils suffisent pour un aller simple vers la périphérie.
+
+61
+00:04:13,960 --> 00:04:14,680
+Des colons.
+
+62
+00:04:15,520 --> 00:04:19,080
+On fait rentrer 20 familles là dedans, en forçant bien.
+
+63
+00:04:19,920 --> 00:04:21,640
+- Des familles?
+- Voilà ce que j'en pense.
+
+64
+00:04:22,480 --> 00:04:24,840
+Le macabé qu'on a heurté tout à l'heure...
+
+65
+00:04:25,680 --> 00:04:26,880
+il les a tués.
+
+66
+00:04:27,720 --> 00:04:30,200
+Et ensuite, il a fait le grand saut, histoire de.
+
+67
+00:04:31,040 --> 00:04:32,800
+T'es toujours très positif.
+
+68
+00:04:33,640 --> 00:04:36,400
+- Ne devrait-on pas le signaler?
+- À qui? L'Alliance?
+
+69
+00:04:37,240 --> 00:04:40,800
+Bien sûr. Ils vont voler au secours de ces malheureux.
+
+70
+00:04:41,640 --> 00:04:42,480
+Alors c'est à nous de le faire.
+
+71
+00:04:43,320 --> 00:04:45,720
+S'ils ont besoin d'aide, pourquoi il n'y a pas de signal?
+
+72
+00:04:46,560 --> 00:04:49,160
+- C'est vrai. Aucune balise.
+- Donc personne ne viendra.
+
+73
+00:04:50,000 --> 00:04:52,040
+Raison de plus pour faire ce qu'il faut.
+
+74
+00:04:52,880 --> 00:04:55,120
+Dites une prière pour eux et on se casse.
+
+75
+00:04:55,960 --> 00:04:58,000
+Vous voulez entendre l'histoire du Bon Samaritain?
+
+76
+00:04:58,840 --> 00:05:00,520
+Non, merci. Mais on va jeter un oeil.
+
+77
+00:05:01,360 --> 00:05:04,400
+Il pourrait y avoir des survivants. Sinon...
+
+78
+00:05:05,240 --> 00:05:08,080
+on sera pas dérangés pendant qu'on examine leur marchandise.
+
+79
+00:05:08,920 --> 00:05:11,280
+Ouais! Non, heu... Quelqu'un pourrait être blessés.
+
+80
+00:05:31,880 --> 00:05:33,000
+Tu vas où, là?
+
+81
+00:05:35,640 --> 00:05:36,800
+Je pensais offrir mes services...
+
+82
+00:05:38,480 --> 00:05:40,360
+au cas ou quelqu'un soit blessé.
+
+83
+00:05:42,520 --> 00:05:45,320
+Le capitaine et Zoé y vont en premier.
+
+84
+00:05:46,160 --> 00:05:48,040
+On hurlera si on a besoin de toi.
+
+85
+00:05:48,880 --> 00:05:50,040
+Ça va pas?
+
+86
+00:05:53,080 --> 00:05:55,400
+Oh, non. Non, je--
+
+87
+00:05:56,200 --> 00:05:59,240
+Je pensais juste au peu de Mylar et de verre...
+
+88
+00:06:00,080 --> 00:06:01,920
+qui séparaient une personne de...
+
+89
+00:06:02,760 --> 00:06:03,840
+rien.
+
+90
+00:06:04,680 --> 00:06:05,960
+C'est dingue ce que "rien" peut te faire.
+
+91
+00:06:06,800 --> 00:06:08,000
+C'est comme ce gars qu'on a renversé.
+
+92
+00:06:08,840 --> 00:06:10,600
+Il est surement coincé sous la quille, là.
+
+93
+00:06:11,440 --> 00:06:12,880
+C'est comme ça avec les débris, dans l'espace.
+
+94
+00:06:13,720 --> 00:06:15,840
+Ça s'accroche au premier gros machin qui s'arrête.
+
+95
+00:06:18,040 --> 00:06:19,080
+Tiens, au fait.
+
+96
+00:06:19,920 --> 00:06:22,000
+C'est un peu comme toi et ta soeur, non?
+
+97
+00:06:49,400 --> 00:06:50,880
+On entre dans le sas.
+
+98
+00:06:56,600 --> 00:06:59,280
+OK, Wash, demande à Serenity de frapper.
+
+99
+00:07:12,240 --> 00:07:13,680
+Il a encore du jus.
+
+100
+00:07:14,520 --> 00:07:15,680
+Les panneaux sont allumés.
+
+101
+00:07:41,000 --> 00:07:42,400
+Ça s'est passé vite, en tous cas.
+
+102
+00:07:59,400 --> 00:08:00,560
+Tout est en place.
+
+103
+00:08:03,520 --> 00:08:04,680
+Le vaisseau s'est éteint tout seul.
+
+104
+00:08:06,960 --> 00:08:08,320
+Pas de trace de lutte.
+
+105
+00:08:10,400 --> 00:08:12,280
+- Ils ont juste--
+- Disparu.
+
+106
+00:08:20,560 --> 00:08:21,720
+Chef.
+
+107
+00:08:24,600 --> 00:08:27,000
+Quelqu'un rédigeait un journal de bord.
+
+108
+00:08:44,320 --> 00:08:46,360
+Ça va, ça va. Je suis là.
+
+109
+00:08:50,080 --> 00:08:51,160
+Encore de mauvais rêves?
+
+110
+00:08:52,000 --> 00:08:54,560
+Je ne peux pas dormir. Trop de cris.
+
+111
+00:09:00,240 --> 00:09:01,800
+River, il--
+
+112
+00:09:02,640 --> 00:09:03,800
+il n'y a pas de cris.
+
+113
+00:09:05,680 --> 00:09:06,840
+Il y en avait.
+
+114
+00:09:08,680 --> 00:09:10,200
+Hey! Attrape ton medikit.
+
+115
+00:09:11,040 --> 00:09:13,320
+Mal veut qu'on se pointe tous les deux.
+
+116
+00:09:15,560 --> 00:09:16,640
+Ils ont trouvé des survivants?
+
+117
+00:09:17,480 --> 00:09:18,560
+Il a pas dit.
+
+118
+00:09:19,400 --> 00:09:20,480
+Bon.
+
+119
+00:09:21,320 --> 00:09:23,360
+Je vais demander à Inara de garder River.
+
+120
+00:09:24,200 --> 00:09:25,360
+Je m'en fous. J'attends pas.
+
+121
+00:09:26,200 --> 00:09:28,800
+Je serai là-bas. Enfile ta combi en vitesse.
+
+122
+00:10:12,280 --> 00:10:14,360
+Salut.
+
+123
+00:10:26,200 --> 00:10:28,400
+Qu'est ce que vous faites là? En combinaison?
+
+124
+00:10:31,480 --> 00:10:33,000
+Vous êtes hilarant.
+
+125
+00:10:33,840 --> 00:10:34,920
+Sadique.
+
+126
+00:10:35,760 --> 00:10:37,680
+Ça suffit. On a pas le temps de jouer.
+
+127
+00:10:38,520 --> 00:10:42,160
+Autant que vous soyez utile. Vous allez avec Kaylee.
+
+128
+00:10:43,000 --> 00:10:45,400
+On fait ça vite. Ne vous chargez pas comme des mulets.
+
+129
+00:10:46,200 --> 00:10:47,320
+On sont les passagers?
+
+130
+00:10:48,160 --> 00:10:49,240
+Une chaloupe s'est ejectée y'a une semaine.
+
+131
+00:10:50,080 --> 00:10:51,160
+On va supposer que tout le monde s'en est sorti.
+
+132
+00:10:52,000 --> 00:10:53,560
+Nous, on gratte la carcasse. Commencez par la salle des machines.
+
+133
+00:10:54,360 --> 00:10:56,560
+Jayne, tu vas voir la cuisine.
+
+134
+00:10:57,400 --> 00:10:59,160
+Vous... l'avez mise de travers.
+
+135
+00:11:05,760 --> 00:11:08,760
+Chef, je compte 16 familles en tout.
+
+136
+00:11:09,600 --> 00:11:11,000
+Une chaloupe n'en contiendrait pas un tiers.
+
+137
+00:11:11,840 --> 00:11:13,440
+Je sais. Wash, du nouveau?
+
+138
+00:11:14,240 --> 00:11:17,080
+Je pense avoir trouvé le model. La forme correspond.
+
+139
+00:11:17,920 --> 00:11:20,280
+S'il y a des objets de valeur...
+
+140
+00:11:21,120 --> 00:11:22,240
+ils devraient se trouver...
+
+141
+00:11:23,040 --> 00:11:24,160
+sur le pont C, coté poupe.
+
+142
+00:11:24,960 --> 00:11:27,040
+Bon travail. Laisse les moteurs tourner, ça va être rapide.
+
+143
+00:11:31,480 --> 00:11:33,400
+River? C'est Inara.
+
+144
+00:11:36,080 --> 00:11:37,400
+Tu as faim, ma puce?
+
+145
+00:11:41,440 --> 00:11:42,600
+River?
+
+146
+00:11:56,640 --> 00:11:57,720
+Vous ne vous posez aucune question?
+
+147
+00:11:58,560 --> 00:11:59,440
+Quel genre?
+
+148
+00:12:00,280 --> 00:12:03,080
+Sur ce qui s'est passé ici.
+
+149
+00:12:03,920 --> 00:12:06,920
+Pourquoi quelqu'un abandonnerait un vaisseau comme ça?
+
+150
+00:12:07,760 --> 00:12:10,720
+Y'a plein de raisons. Mais pas mécaniques.
+
+151
+00:12:11,560 --> 00:12:14,440
+- Hein?
+- Y'a rien qui est en panne.
+
+152
+00:12:15,280 --> 00:12:17,040
+J'ai rien vu, en tout cas.
+
+153
+00:12:20,920 --> 00:12:22,000
+Éh bien, c'est une belle prise.
+
+154
+00:12:22,840 --> 00:12:24,760
+Ouvrez le sac.
+
+155
+00:12:47,120 --> 00:12:48,280
+On dirait qu'on y est.
+
+156
+00:12:54,640 --> 00:12:55,760
+C'est verouillé.
+
+157
+00:12:56,560 --> 00:12:59,360
+Je trouve que c'est plutôt bon signe.
+
+158
+00:14:05,320 --> 00:14:06,680
+Par ici.
+
+159
+00:14:09,200 --> 00:14:10,880
+Graines, protéines, engrais.
+
+160
+00:14:11,720 --> 00:14:12,800
+Tout ce dont a besoin une famille...
+
+161
+00:14:13,640 --> 00:14:15,680
+pour démarrer sur une nouvelle planète.
+
+162
+00:14:16,520 --> 00:14:18,680
+Des ressources pour 14 familles.
+
+163
+00:14:19,520 --> 00:14:21,120
+- Ça s'élève à--
+- Une petite fortune.
+
+164
+00:14:21,920 --> 00:14:23,520
+Oublie le reste. On embarque ça.
+
+165
+00:14:24,320 --> 00:14:26,440
+On va avoir besoin d'aide pour tout sortir.
+
+166
+00:14:31,120 --> 00:14:33,640
+Chef, même sur une chaloupe...
+
+167
+00:14:34,480 --> 00:14:37,080
+les survivants n'auraient pas tout laissé.
+
+168
+00:14:40,320 --> 00:14:41,440
+Personne s'en est sorti.
+
+169
+00:14:42,240 --> 00:14:43,240
+Chef?
+
+170
+00:14:45,760 --> 00:14:47,520
+Personne.
+
+171
+00:14:54,280 --> 00:14:55,040
+Mon Dieu.
+
+172
+00:14:59,240 --> 00:15:00,360
+Je sais ce qui a fait ça.
+
+173
+00:15:01,160 --> 00:15:02,560
+Sors la de là. Jayne?
+
+174
+00:15:03,400 --> 00:15:05,760
+Laisse tomber ce que tu fais et vas en salle des machines.
+
+175
+00:15:06,600 --> 00:15:08,800
+Je veux que tu racompagnes Kaylee et le docteur. Pas de question.
+
+176
+00:15:12,480 --> 00:15:13,440
+Jayne?
+
+177
+00:15:19,360 --> 00:15:20,440
+Capitaine?
+
+178
+00:15:21,280 --> 00:15:22,520
+Capitaine!
+
+179
+00:15:23,360 --> 00:15:24,440
+Zoé!!
+
+180
+00:15:25,280 --> 00:15:27,000
+Ça vient d'en haut, Chef.
+
+181
+00:15:27,840 --> 00:15:29,240
+La cuisine.
+
+182
+00:15:30,080 --> 00:15:31,520
+On entendu des coups de feu.
+
+183
+00:15:32,360 --> 00:15:33,400
+River, qu'est-ce que tu--
+
+184
+00:15:34,240 --> 00:15:35,360
+J'ai suivi les voix.
+
+185
+00:15:36,200 --> 00:15:38,280
+- Ne quitte plus le vaisseau. Jamais.
+- Tu te charges d'elle, fils.
+
+186
+00:15:39,120 --> 00:15:41,200
+- C'est quoi, ce bordel?
+- Pas maintenant, chéri.
+
+187
+00:15:56,960 --> 00:15:58,480
+T'as vu quoi?
+
+188
+00:15:59,280 --> 00:16:00,400
+Rien.
+
+189
+00:16:01,200 --> 00:16:02,840
+Il m'a pris par derrière. Mais c'était gros.
+
+190
+00:16:03,680 --> 00:16:05,000
+Fort.
+
+191
+00:16:05,840 --> 00:16:07,400
+- Je pense l'avoir touché.
+- Vous l'avez fait.
+
+192
+00:16:27,400 --> 00:16:28,280
+Non. Non, non!
+
+193
+00:16:28,640 --> 00:16:29,600
+Shh. Du calme.
+
+194
+00:16:32,600 --> 00:16:33,680
+On ne te fera pas de mal.
+
+195
+00:16:34,520 --> 00:16:37,240
+- Non. Pas de pitié. Non.
+- Pas plus, en tout cas.
+
+196
+00:16:38,080 --> 00:16:39,520
+- Pas de pitié.
+- On a plein de pitié.
+
+197
+00:16:40,360 --> 00:16:41,520
+On a vraiment plein de--
+
+198
+00:16:53,560 --> 00:16:54,600
+Ah oui.
+
+199
+00:16:55,440 --> 00:16:57,960
+C'est une vraie bête.
+
+200
+00:16:58,800 --> 00:17:00,200
+C'est étonnant que vous soyez en vie.
+
+201
+00:17:01,040 --> 00:17:03,240
+Il avait l'air plus gros, dans mon dos.
+
+202
+00:17:06,880 --> 00:17:08,440
+Combien de temps a-t-il passé là bas?
+
+203
+00:17:09,280 --> 00:17:10,360
+Je sais pas.
+
+204
+00:17:11,200 --> 00:17:13,880
+Il a du être très brave pour s'en sortir.
+
+205
+00:17:14,720 --> 00:17:17,280
+Ouais. Il les a tous tués en héro.
+
+206
+00:17:18,080 --> 00:17:20,160
+Quoi? Non, il a pas fait ça.
+
+207
+00:17:24,160 --> 00:17:25,280
+Il l'a pas fait, hein?
+
+208
+00:17:26,120 --> 00:17:27,920
+Le capitaine ne l'aurait pas ramené à bord.
+
+209
+00:17:28,760 --> 00:17:29,880
+Le pouls est rapide.
+
+210
+00:17:30,720 --> 00:17:32,960
+La tension est un peu élevée. C'est normal.
+
+211
+00:17:33,800 --> 00:17:36,440
+Faibles. Ils étaient tous faibles.
+
+212
+00:17:37,280 --> 00:17:40,080
+À part la balle, il n'y a pas de traumatisme.
+
+213
+00:17:40,920 --> 00:17:43,000
+Mais votre coup à la tête ne l'a pas aidé.
+
+214
+00:17:43,840 --> 00:17:45,920
+Du bétail.
+
+215
+00:17:46,720 --> 00:17:48,400
+Du bétail à massacrer.
+
+216
+00:17:50,400 --> 00:17:52,120
+Droguez-le.
+
+217
+00:17:52,960 --> 00:17:54,400
+- Je ne pense--
+- Faites-le.
+
+218
+00:17:55,200 --> 00:17:57,560
+Pas de pitité. Pas de résistance.
+
+219
+00:18:07,400 --> 00:18:11,040
+Ouvrez. Regardez à l'intérieur.
+
+220
+00:18:26,200 --> 00:18:28,400
+Alors? Comment va notre patient?
+
+221
+00:18:29,240 --> 00:18:30,800
+Mise à part la malnutrition...
+
+222
+00:18:31,640 --> 00:18:32,720
+il tient une forme remarquable.
+
+223
+00:18:33,560 --> 00:18:34,440
+Donc il va vivre.
+
+224
+00:18:35,280 --> 00:18:36,960
+Ce qui est malheureux, à mon avis.
+
+225
+00:18:37,800 --> 00:18:39,040
+Ce n'est pas très charitable, Capitaine.
+
+226
+00:18:39,880 --> 00:18:41,920
+- La charité serait de lui plomber la cervelle.
+- Mal!
+
+227
+00:18:42,760 --> 00:18:44,160
+Ça mettrait un terme à ses souffrances.
+
+228
+00:18:48,000 --> 00:18:49,160
+Bon. Personne n'entre là dedans.
+
+229
+00:18:50,000 --> 00:18:51,880
+Il n'y a plus rien à faire, après ce qu'il a vu.
+
+230
+00:18:52,720 --> 00:18:55,480
+- C'est à dire?
+- Ce vaisseau a été pillé par des Reavers.
+
+231
+00:18:58,640 --> 00:19:00,680
+Des Reavers?
+
+232
+00:19:05,800 --> 00:19:07,000
+Mal, qu'est-ce que te fait dire ça?
+
+233
+00:19:07,840 --> 00:19:09,600
+Rien du tout, c'est quoi. Pas moyen.
+
+234
+00:19:11,480 --> 00:19:13,360
+C'était l'autre gars, celui qu'on a renversé.
+
+235
+00:19:14,200 --> 00:19:18,160
+Comme j'ai dit, il a fait un carton et s'est jeté.
+
+236
+00:19:19,000 --> 00:19:21,520
+- Y'a deux minutes, t'as dit que--
+- Rien à foutre de ce que j'ai dit.
+
+237
+00:19:22,360 --> 00:19:23,560
+C'était pas des Reavers. Ils laissent pas de survivants.
+
+238
+00:19:24,400 --> 00:19:25,680
+Pour être exact, ils ne l'ont pas fait.
+
+239
+00:19:26,520 --> 00:19:27,600
+Qu'est ce que vous insinuez?
+
+240
+00:19:28,400 --> 00:19:30,280
+C'était pas la peine de le ramener, mon Père.
+
+241
+00:19:31,120 --> 00:19:33,160
+Il vivra là bas, maintenant.
+
+242
+00:19:34,000 --> 00:19:35,480
+Je ne peux pas accepter ça.
+
+243
+00:19:36,320 --> 00:19:38,360
+Quoi qu'il ait vu, aussi horrible fut-ce...
+
+244
+00:19:39,200 --> 00:19:41,000
+ça a été commis par des homme.
+
+245
+00:19:41,840 --> 00:19:44,480
+- Les Reavers sont pas des hommes.
+- Bien sur que si.
+
+246
+00:19:45,320 --> 00:19:48,640
+Des hommes décivilisés, mais des hommes.
+
+247
+00:19:49,480 --> 00:19:51,720
+Et je crois en une puissance au delà de l'homme.
+
+248
+00:19:52,560 --> 00:19:54,280
+Une puissance bénéfique.
+
+249
+00:19:55,120 --> 00:19:56,720
+Les Reavers auraient à redire sur cette philosophie...
+
+250
+00:19:57,560 --> 00:19:58,640
+s'ils avaient une philosophie...
+
+251
+00:19:59,480 --> 00:20:02,480
+et s'ils étaient pas occupé à vous machouiller les entrailles.
+
+252
+00:20:03,320 --> 00:20:05,640
+Jayne a raison. Les Reavers sont pas des hommes.
+
+253
+00:20:06,480 --> 00:20:08,880
+Ou ils ont oublié. Ça revient au même.
+
+254
+00:20:09,720 --> 00:20:11,760
+Ils vivent aux confins de la galaxie, dans le vide...
+
+255
+00:20:12,600 --> 00:20:13,680
+et ce vide les a envahi.
+
+256
+00:20:14,520 --> 00:20:17,000
+Pourquoi on reste là? On devrait pas se barrer?
+
+257
+00:20:17,840 --> 00:20:20,760
+On a pas fini le boulot. Il reste des choses à récuperer.
+
+258
+00:20:21,560 --> 00:20:23,640
+Oh, je vais pas là bas, avec ces corps.
+
+259
+00:20:24,440 --> 00:20:26,400
+Rien à foutre. Pas si les Reavers y étaient.
+
+260
+00:20:27,240 --> 00:20:28,560
+Jayne, tu vas effayer les femmes.
+
+261
+00:20:30,360 --> 00:20:32,400
+J'y retourne.
+
+262
+00:20:33,240 --> 00:20:35,480
+- J'ai déjà vu des corps. Ça ira.
+- Je voudrais l'accompagner.
+
+263
+00:20:36,320 --> 00:20:39,240
+Voir ce que je peux faire pour le repos de ces gens.
+
+264
+00:20:40,080 --> 00:20:42,240
+Ils se reposent déjà bien, mon Père.
+
+265
+00:20:43,080 --> 00:20:45,760
+Nous occuper de nos morts, cela nous rend différents...
+
+266
+00:20:46,600 --> 00:20:47,920
+de ceux qui ont commis le massacre.
+
+267
+00:20:52,800 --> 00:20:54,880
+C'est d'accord. Allez dire vos prières.
+
+268
+00:20:55,720 --> 00:20:58,040
+Jayne, tu vas aider à les décrocher.
+
+269
+00:20:58,880 --> 00:21:00,960
+- Et après, tu ramènes la cargaison.
+- Je le crois pas.
+
+270
+00:21:01,760 --> 00:21:03,560
+On reste là pour des funérailles?
+
+271
+00:21:04,400 --> 00:21:05,280
+Oui, Jayne. C'est exactement ça.
+
+272
+00:21:06,080 --> 00:21:08,360
+Je veux pas qu'ils nous hantent après notre départ.
+
+273
+00:21:09,080 --> 00:21:10,880
+Je dis pas qu'il y ait de la paix à revendre...
+
+274
+00:21:11,440 --> 00:21:15,800
+mais si il y en a un peu, ils en auront une part.
+
+275
+00:21:21,360 --> 00:21:23,440
+Et moi qui pensais t'avoir enfin cerné.
+
+276
+00:21:30,440 --> 00:21:32,440
+C'était vraiment joli, Capitaine, ce que vous avez dit.
+
+277
+00:21:33,280 --> 00:21:35,320
+Je ne pensais pas que vous suiviez les rituels.
+
+278
+00:21:36,160 --> 00:21:38,680
+C'est pas le cas. Je voulais juste les occuper un moment.
+
+279
+00:21:39,520 --> 00:21:41,240
+Pas la peine de les inquiéter avec la suite.
+
+280
+00:21:42,080 --> 00:21:43,360
+Chef?
+
+281
+00:21:45,800 --> 00:21:47,800
+C'est pénible d'avoir toujours raison.
+
+282
+00:21:48,160 --> 00:21:49,240
+- Qu'est-ce que c'est?
+- Un piège.
+
+283
+00:21:50,080 --> 00:21:51,480
+Les Reavers en laissent parfois pour les sauveteurs.
+
+284
+00:21:52,320 --> 00:21:54,320
+- On l'a amorcé en s'arrimant.
+- Et quand on se détache?
+
+285
+00:21:55,160 --> 00:21:56,080
+Ça pète.
+
+286
+00:21:56,920 --> 00:21:59,240
+OK, alors on détache pas. On attend que--
+
+287
+00:22:00,080 --> 00:22:01,800
+Quoi? Que les Reavers reviennent?
+
+288
+00:22:02,640 --> 00:22:05,040
+Ça ressemble à un déclencheur à pression.
+
+289
+00:22:05,880 --> 00:22:07,960
+On peut pas faire mieux avec des pièces de récup'.
+
+290
+00:22:08,800 --> 00:22:11,000
+On peut facilement le contourner pour accéder à la ligne mère.
+
+291
+00:22:11,840 --> 00:22:13,680
+Ne tourne pas autour du pot. Tu peux t'en charger?
+
+292
+00:22:14,520 --> 00:22:15,400
+Oui, bien sur.
+
+293
+00:22:17,440 --> 00:22:18,760
+Je pense.
+
+294
+00:22:19,600 --> 00:22:23,240
+Et sinon, t'auras pas l'occasion de m'engueuler.
+
+295
+00:24:19,360 --> 00:24:20,440
+Qu'est-ce qui se passe?
+
+296
+00:24:21,280 --> 00:24:23,240
+Là tout de suite, je dirais qu'il se passe rien.
+
+297
+00:24:24,080 --> 00:24:25,800
+- Non?
+- Aucun problème.
+
+298
+00:24:26,640 --> 00:24:27,720
+Ça ressemblais à un problème.
+
+299
+00:24:28,560 --> 00:24:31,080
+Je pensais qu'on avait un souci, mais on dirait que c'est réglé.
+
+300
+00:24:31,920 --> 00:24:33,640
+Il faut ranger tout ça.
+
+301
+00:24:45,520 --> 00:24:46,760
+On est tous rentrés, Wash. On y va.
+
+302
+00:24:50,400 --> 00:24:52,440
+Oh non. Me dis pas ça. C'est les Reavers.
+
+303
+00:24:53,280 --> 00:24:55,880
+- Ces putains de Reavers sont revenus.
+- Rangez les caisses.
+
+304
+00:24:56,720 --> 00:24:59,080
+- Ça change quoi?
+- Fais le!
+
+305
+00:25:02,160 --> 00:25:03,320
+Les Reavers?
+
+306
+00:25:05,400 --> 00:25:06,480
+Vaisseau de classe Firefly...
+
+307
+00:25:07,320 --> 00:25:08,400
+vous avez ordre de nous céder votre barre.
+
+308
+00:25:09,240 --> 00:25:10,440
+Préparez-vous à être abordés.
+
+309
+00:25:18,920 --> 00:25:21,080
+La civilisation nous a finalement rattrapés.
+
+310
+00:25:33,840 --> 00:25:35,360
+Il n'ont pas d'immatriculation sur la proue.
+
+311
+00:25:36,200 --> 00:25:37,280
+Il faudra penser à le rapporter.
+
+312
+00:25:38,120 --> 00:25:40,720
+Chef, l'autre vaisseau a été identifié.
+
+313
+00:25:41,560 --> 00:25:43,720
+Il transportait des familles en provenance de Bernadette.
+
+314
+00:25:44,560 --> 00:25:47,240
+Ils devaient arriver à Newhall il y a trois semaines.
+
+315
+00:25:48,080 --> 00:25:50,080
+On ira voir ça quand on se sera occupés des pilleurs.
+
+316
+00:25:50,920 --> 00:25:52,680
+Chef, On n'avait pas un avis sur un Firefly recherché?
+
+317
+00:25:53,520 --> 00:25:54,680
+Vérifiez.
+
+318
+00:25:57,400 --> 00:25:58,480
+Ah, le voilà.
+
+319
+00:25:59,320 --> 00:26:01,200
+C'est une alerte concernant un Firefly non identifié...
+
+320
+00:26:02,000 --> 00:26:04,480
+qui transporterait deux fugitifs. Frère et soeur.
+
+321
+00:26:05,320 --> 00:26:06,400
+Pour quoi sont-ils recherché?
+
+322
+00:26:07,240 --> 00:26:08,560
+Ça ne dit pas. C'est confidentiel.
+
+323
+00:26:09,400 --> 00:26:12,320
+40.000 de ces épaves en vol et ils ne donnent que ça.
+
+324
+00:26:13,160 --> 00:26:15,440
+Je ne veux pas de pépin pendant un contrôle de routine.
+
+325
+00:26:16,280 --> 00:26:18,280
+On tombe sur ces deux là, on tire d'abord.
+
+326
+00:26:19,120 --> 00:26:20,960
+Ils trieront les morceaux après.
+
+327
+00:26:23,160 --> 00:26:25,440
+- C'était quoi?
+- Rouvre et ressort les caisses.
+
+328
+00:26:26,280 --> 00:26:28,960
+- Je viens de finir de les ranger!
+- Ouais, et maintenant tu les ressors.
+
+329
+00:26:29,800 --> 00:26:32,160
+- Pourquoi?
+- J'ai pas envie d'en discuter.
+
+330
+00:26:33,000 --> 00:26:34,720
+Dans deux minutes, ça va grouiller d'Alliés ici.
+
+331
+00:26:35,560 --> 00:26:36,960
+Non.
+
+332
+00:26:38,920 --> 00:26:41,280
+- On doit s'enfuir.
+- Pas possible. Ils nous tractent.
+
+333
+00:26:42,120 --> 00:26:44,960
+S'ils nous trouvent, River sera de nouveau torturée.
+
+334
+00:26:45,800 --> 00:26:46,680
+Je ne la verrais plus jamais.
+
+335
+00:26:47,520 --> 00:26:51,040
+Entassez tout ça au milieu. On a rien à cacher.
+
+336
+00:26:51,880 --> 00:26:53,400
+Ça pourrait leur donner la mauvaise impression.
+
+337
+00:26:54,240 --> 00:26:55,520
+- Ou la bonne.
+- Ouais, aussi.
+
+338
+00:26:56,360 --> 00:26:58,840
+- Allez chercher votre soeur.
+- Quoi?
+
+339
+00:27:02,960 --> 00:27:04,480
+Vous voulez l'exposer avec le reste?
+
+340
+00:27:05,320 --> 00:27:07,320
+Ne vous inquiétez pas. Faites ce que je dis.
+
+341
+00:27:08,160 --> 00:27:10,560
+Vous nous avez gardé pour ça? Comme monnaie d'échange?
+
+342
+00:27:11,400 --> 00:27:13,440
+- Je le savais.
+- Vous ne la leur vendrez pas.
+
+343
+00:27:14,280 --> 00:27:15,200
+Ne soyez pas idiot, mon fils.
+
+344
+00:27:17,160 --> 00:27:18,720
+Faites ce qu'il vous dit.
+
+345
+00:27:38,240 --> 00:27:40,480
+Éh bien, quelle histoire.
+
+346
+00:27:41,320 --> 00:27:43,600
+J'aurais presque l'impression qu'on est dangereux.
+
+347
+00:27:46,680 --> 00:27:50,200
+- C'est votre vaisseau?
+- Tout à fait. Je suis le capitaine Malcolm Reynolds.
+
+348
+00:27:51,080 --> 00:27:53,200
+- Et tout le monde est là, Capitaine?
+- Tout l'équipage, oui.
+
+349
+00:27:54,040 --> 00:27:56,600
+Vous trouverez également un naufragé dans notre infirmerie.
+
+350
+00:27:57,480 --> 00:27:58,240
+Un gars qu'on a sauvé de l'épave.
+
+351
+00:28:01,600 --> 00:28:03,360
+Tout au fond, à coté des quartiers.
+
+352
+00:28:05,200 --> 00:28:07,320
+Et je suppose que vous avez également sauvé ces objets.
+
+353
+00:28:22,200 --> 00:28:23,520
+Ça ressemble fort à une récupération illégale.
+
+354
+00:28:24,360 --> 00:28:26,040
+Ah bon? C'est décourageant.
+
+355
+00:28:26,880 --> 00:28:28,200
+Vous pourriez y perdre votre vaisseau, Capitaine.
+
+356
+00:28:29,000 --> 00:28:31,880
+Mais vous risquez bien plus si vous aidez des fugitifs.
+
+357
+00:28:32,720 --> 00:28:35,560
+Un frère et une soeur. Je ne les trouverai pas ici, je suppose?
+
+358
+00:28:36,400 --> 00:28:37,360
+Aucun enfant à bord.
+
+359
+00:28:38,200 --> 00:28:40,400
+Je n'ai pas parlé d'enfants.
+
+360
+00:28:41,240 --> 00:28:43,440
+Des adultes frères et soeurs.
+
+361
+00:28:44,280 --> 00:28:45,960
+J'avais mal compris.
+
+362
+00:28:49,320 --> 00:28:50,880
+Ils ne risquent pas d'être cachés quelque part?
+
+363
+00:28:51,720 --> 00:28:52,800
+Je ne vous en voudrais pas, Capitaine.
+
+364
+00:28:53,640 --> 00:28:57,280
+Ces Fireflys sont pleins de petits recoins, c'est bien connu.
+
+365
+00:28:58,120 --> 00:28:59,360
+Ah bon?
+
+366
+00:29:00,200 --> 00:29:03,320
+Les contrebandiers les apprécient pour cette raison.
+
+367
+00:29:13,880 --> 00:29:16,880
+Nous continuerons cette conversion de manière plus officielle.
+
+368
+00:29:17,720 --> 00:29:18,960
+Retournez chaque centimètre de ce tas de ferraille.
+
+369
+00:29:19,800 --> 00:29:21,840
+- "Tas de ferraille"?
+- Calme-toi, Kaylee.
+
+370
+00:29:22,680 --> 00:29:24,760
+Mais, Capitaine! Vous avez entendu comment il a appelé Serenity?
+
+371
+00:29:25,560 --> 00:29:26,720
+Boucle là.
+
+372
+00:29:44,960 --> 00:29:47,040
+- Vous êtes une Compagnonne.
+- Oui.
+
+373
+00:29:47,920 --> 00:29:49,600
+Et vous officiiez sur Sihnon.
+
+374
+00:29:50,440 --> 00:29:52,480
+Cela ne fait qu'un an que vous êtes à bord du Serenity?
+
+375
+00:29:53,320 --> 00:29:54,400
+C'est juste Serenity, et c'est exact.
+
+376
+00:29:55,240 --> 00:29:57,440
+Dans quelques semaines, cela fera un an.
+
+377
+00:29:58,280 --> 00:30:00,640
+- Pourquoi est-ce important?
+- J'essaye juste de comprendre la situation.
+
+378
+00:30:01,480 --> 00:30:03,680
+C'est une-- Ce n'est pas banal.
+
+379
+00:30:04,520 --> 00:30:06,200
+Une femme de votre rang...
+
+380
+00:30:07,040 --> 00:30:08,000
+qui tombe avec ce... genre de personnes.
+
+381
+00:30:08,840 --> 00:30:12,400
+Pas le moins du monde. C'est un arrangement mutuel.
+
+382
+00:30:13,240 --> 00:30:16,160
+Voyager avec le Capitaine Reynolds m'ouvre de nouveaux marchés...
+
+383
+00:30:17,000 --> 00:30:19,840
+et il a constaté qu'avoir une Compagnonne à bord...
+
+384
+00:30:20,680 --> 00:30:22,840
+ouvre certaines portes qui lui seraient fermées autrement.
+
+385
+00:30:23,680 --> 00:30:26,440
+- Et vous l'aimez?
+- Je ne vois pas le rapport.
+
+386
+00:30:27,280 --> 00:30:28,880
+- C'est pourtant votre mari.
+- Oui.
+
+387
+00:30:30,880 --> 00:30:32,040
+Vous vous êtes rencontrés grace au Capitaine Reynolds?
+
+388
+00:30:32,880 --> 00:30:34,920
+Le capitaine cherchait un pilote. J'ai trouvé un mari.
+
+389
+00:30:35,760 --> 00:30:36,640
+Ça collait.
+
+390
+00:30:37,480 --> 00:30:39,560
+- Vous vous êtes battus à ses côtés?
+- Je me suis battu avec beaucoup de monde.
+
+391
+00:30:40,360 --> 00:30:41,800
+- Avec votre mari?
+- Ça m'arrive de temps en temps.
+
+392
+00:30:44,440 --> 00:30:46,800
+Avez-vous une raison de ne pas vouloir en parler?
+
+393
+00:30:47,640 --> 00:30:50,400
+Je ne vois pas en quoi cela vous concerne.
+
+394
+00:30:51,240 --> 00:30:52,360
+Notre relation est privée.
+
+395
+00:30:53,160 --> 00:30:54,080
+Les jambes.
+
+396
+00:30:54,920 --> 00:30:56,800
+Ah ouais. Je pense vraiment que c'était ses jambes.
+
+397
+00:30:57,640 --> 00:30:59,280
+Vous pouvez marquer ça.
+
+398
+00:31:00,120 --> 00:31:03,680
+Ses jambes, et toute la partie où elles rejoignent son dos.
+
+399
+00:31:04,520 --> 00:31:06,120
+Ça, et au dessus.
+
+400
+00:31:08,120 --> 00:31:10,400
+Six gerstules coincées sous chaque refroidisseur...
+
+401
+00:31:11,240 --> 00:31:12,840
+qui tirent comme des folles sur vos fonctions primaires...
+
+402
+00:31:13,680 --> 00:31:16,160
+et après, il faut recycler les échappements par reroutage...
+
+403
+00:31:17,000 --> 00:31:19,360
+pour éviter qu'ils ne passent à travers votre atmopompe principale...
+
+404
+00:31:20,200 --> 00:31:21,320
+et qu'ils asphyxient tout le monde.
+
+405
+00:31:22,160 --> 00:31:23,080
+Voilà, ça c'est un tas de ferraille.
+
+406
+00:31:23,880 --> 00:31:25,640
+Vous avez vu ce qu'elle porte? N'y pensez pas.
+
+407
+00:31:26,480 --> 00:31:27,920
+Avez-vous déjà été avec une guerrière?
+
+408
+00:31:43,960 --> 00:31:45,600
+Des pirates avec leur propre aumônier.
+
+409
+00:31:46,440 --> 00:31:48,200
+C'est bien curieux.
+
+410
+00:31:49,040 --> 00:31:50,920
+Il y a bien plus curieux par ici, Commandant.
+
+411
+00:31:51,760 --> 00:31:54,640
+Tout n'est pas bien rangé comme sur les planètes centrales.
+
+412
+00:31:55,440 --> 00:31:57,120
+Les règles peuvent être un peu plus floues.
+
+413
+00:31:57,960 --> 00:32:00,840
+Ces fugitifs que nous recherchons. Le frère et la soeur.
+
+414
+00:32:01,680 --> 00:32:04,560
+- Ils ont été vus pour la dernière fois sur Persephone.
+- Certes.
+
+415
+00:32:05,360 --> 00:32:07,440
+Et ils ont embarqué à bord d'un vaisseau de classe Firefly...
+
+416
+00:32:08,240 --> 00:32:10,480
+à peu près au moment où vous montiez à bord de Serenity.
+
+417
+00:32:11,320 --> 00:32:13,840
+Persephone est très vaste.
+
+418
+00:32:14,680 --> 00:32:17,480
+Oui. Mais pas ce Firefly.
+
+419
+00:32:18,320 --> 00:32:19,920
+Et s'il y a des fugitifs à bord...
+
+420
+00:32:20,760 --> 00:32:22,400
+nous les trouverons.
+
+421
+00:33:42,080 --> 00:33:44,880
+Je suppose que vous avez inspecté l'épave.
+
+422
+00:33:45,720 --> 00:33:47,120
+Oui. C'est terrible.
+
+423
+00:33:49,680 --> 00:33:51,720
+À mon avis, vous ne devriez pas le remorquer.
+
+424
+00:33:52,560 --> 00:33:55,120
+Faites-le sauter sur place, qu'on en finisse.
+
+425
+00:33:55,960 --> 00:33:58,600
+C'est un pièce à conviction. Je n'ai pas l'habitude de les détruire.
+
+426
+00:33:59,440 --> 00:34:01,280
+Bien sur que non. C'est contraire aux règlement.
+
+427
+00:34:03,280 --> 00:34:04,360
+Je vais me jeter à l'eau et supposer...
+
+428
+00:34:05,200 --> 00:34:07,240
+que c'est votre première mission à la périphérie.
+
+429
+00:34:09,760 --> 00:34:11,840
+Vous avez un équipage très fidèle.
+
+430
+00:34:13,680 --> 00:34:14,760
+Mais il est vrai, d'après votre dossier...
+
+431
+00:34:15,600 --> 00:34:20,040
+que vous avez tendance à inspirer confiance... Sergent.
+
+432
+00:34:22,360 --> 00:34:24,760
+Pas sergent. Plus maintenant. La guerre est finie.
+
+433
+00:34:25,600 --> 00:34:27,400
+Pour certains, elle continuera toujours.
+
+434
+00:34:28,200 --> 00:34:29,320
+J'ai remarqué que votre vaisseau s'appelle Serenity.
+
+435
+00:34:30,120 --> 00:34:32,200
+Vous étiez détaché sur Hara à la fin de la guerre.
+
+436
+00:34:33,000 --> 00:34:35,480
+La bataille de Serenity Valley à eu lieu là bas, non?
+
+437
+00:34:36,320 --> 00:34:37,400
+C'est bien possible.
+
+438
+00:34:38,240 --> 00:34:39,640
+Les indépendants y ont essuyé une belle défaite.
+
+439
+00:34:40,480 --> 00:34:42,320
+Certains disent qu'après Serenity, les manteaubruns sont tombés...
+
+440
+00:34:43,160 --> 00:34:44,040
+et que la guerre s'est terminée dans cette vallée.
+
+441
+00:34:46,960 --> 00:34:49,720
+Vous étiez du mauvais coté de la bataille, et vous le baptisez comme ça?
+
+442
+00:34:50,560 --> 00:34:53,800
+Le coté qui a perdu. Probablement pas le mauvais.
+
+443
+00:34:58,000 --> 00:34:59,400
+C'est pour ça que vous avez attaqué ce transporteur?
+
+444
+00:35:00,240 --> 00:35:02,320
+- Pardon?
+- Vous vous battez toujours du même coté.
+
+445
+00:35:03,160 --> 00:35:04,680
+Mais ce n'était pas des soldats que vous avez massacré.
+
+446
+00:35:05,520 --> 00:35:07,120
+C'était des civils, des familles de l'Alliance...
+
+447
+00:35:07,960 --> 00:35:09,960
+qui prenaient un nouveau départ, mais vous ne pouvez le supporter.
+
+448
+00:35:10,800 --> 00:35:12,840
+Donc on a attaqué le vaisseau et ramené le seul survivant à bord.
+
+449
+00:35:13,680 --> 00:35:14,680
+C'est ça qu'on a fait?
+
+450
+00:35:15,520 --> 00:35:16,600
+Je lui demanderais bien...
+
+451
+00:35:17,440 --> 00:35:20,760
+mais il aurait du mal à me répondre, avec sa langue fendue en deux.
+
+452
+00:35:23,520 --> 00:35:25,840
+Je n'avais pas vu ce genre de torture depuis--
+
+453
+00:35:26,680 --> 00:35:27,920
+Éh bien, depuis la guerre.
+
+454
+00:35:28,760 --> 00:35:30,640
+- J'aurais du m'en douter.
+- Vous et votre équipage êtes en état d'arrestation.
+
+455
+00:35:31,480 --> 00:35:32,720
+Les charges seront transmises aux autorités centrales.
+
+456
+00:35:33,560 --> 00:35:36,280
+Commandant, c'est pas de moi que vous devriez vous méfier.
+
+457
+00:35:37,120 --> 00:35:39,760
+Si ça continue comme ça, il va y avoir du sang.
+
+458
+00:35:57,000 --> 00:35:58,160
+Des Reavers?
+
+459
+00:35:59,000 --> 00:36:00,120
+C'est ce que j'ai dit.
+
+460
+00:36:00,920 --> 00:36:03,480
+Vous n'imaginez pas combien de fois j'ai entendu cette excuse--
+
+461
+00:36:04,280 --> 00:36:05,400
+"C'était des Reavers."
+
+462
+00:36:06,200 --> 00:36:08,400
+- C'est la vérité.
+- Vous les avez vu, n'est-ce pas?
+
+463
+00:36:09,240 --> 00:36:11,600
+- Je ne serais pas là à discuter.
+- Non, bien sur.
+
+464
+00:36:12,440 --> 00:36:15,720
+Mais quelqu'un l'a vue. Le pauvre type que vous avez récupéré.
+
+465
+00:36:16,560 --> 00:36:18,200
+Il l'a regardée en face, on l'y a forcé.
+
+466
+00:36:19,040 --> 00:36:20,440
+- "La"?
+- L'obscurité.
+
+467
+00:36:22,400 --> 00:36:24,280
+Le genre d'obscurité qu'on ne peut imaginer.
+
+468
+00:36:25,280 --> 00:36:27,120
+Plus sombre que l'espace qu'elle traverse.
+
+469
+00:36:27,960 --> 00:36:29,840
+Très poétique.
+
+470
+00:36:30,680 --> 00:36:31,760
+Ils l'ont forcé à regarder.
+
+471
+00:36:32,600 --> 00:36:34,600
+Ils ne l'ont pas laisser détourner le regard.
+
+472
+00:36:35,440 --> 00:36:37,560
+Vous dites que c'est un rescapé. C'est pas vrai.
+
+473
+00:36:40,800 --> 00:36:42,840
+Un homme est confronté à ce genre de puissance...
+
+474
+00:36:43,680 --> 00:36:46,200
+je crois que son seul salut, c'est d'y adhérer.
+
+475
+00:36:47,040 --> 00:36:50,080
+Il suit la seule route qui lui reste.
+
+476
+00:36:52,400 --> 00:36:54,920
+D'abord, il va en prendre l'apparence.
+
+477
+00:36:55,760 --> 00:36:56,840
+Se taillader, désacraliser sa chaire.
+
+478
+00:36:57,680 --> 00:36:59,600
+Et ensuite... il va agir comme eux.
+
+479
+00:37:06,080 --> 00:37:09,400
+Ordonnez à deux MPs d'escorter le Sergent Reynolds au cachot.
+
+480
+00:37:21,400 --> 00:37:22,560
+On y retourne.
+
+481
+00:37:24,280 --> 00:37:26,040
+Plus tard... peut-être.
+
+482
+00:37:26,880 --> 00:37:28,680
+Le capitaine a dit qu'une fois l'orage passé...
+
+483
+00:37:29,520 --> 00:37:30,720
+il fallait se cacher dans la navette.
+
+484
+00:37:31,560 --> 00:37:32,920
+Il revient.
+
+485
+00:37:35,440 --> 00:37:37,240
+Oui. Bien sur qu'il revient. Ils reviennent tous.
+
+486
+00:37:40,280 --> 00:37:41,800
+Votre vaisseau et son contenu seront mis aux enchères.
+
+487
+00:37:42,160 --> 00:37:43,960
+Cet argent sera utilisé pour financer votre défense.
+
+488
+00:37:47,560 --> 00:37:49,400
+Emmenez-le.
+
+489
+00:37:50,240 --> 00:37:51,920
+Bouclez tout. Je veux des gardes devant l'infirmerie.
+
+490
+00:37:52,760 --> 00:37:56,440
+C'est inutile, vous ne le trouverez pas. Mais je sais où il va.
+
+491
+00:38:02,280 --> 00:38:03,400
+Attends, non! Non. Non.
+
+492
+00:38:04,240 --> 00:38:05,080
+River, tout va bien.
+
+493
+00:38:05,920 --> 00:38:07,440
+Attends. Attends... ici.
+
+494
+00:38:08,280 --> 00:38:09,640
+Ils sont partis. Viens.
+
+495
+00:38:10,480 --> 00:38:11,880
+- Non--
+- Ça va.
+
+496
+00:38:18,840 --> 00:38:19,760
+Tu n'as rien a craindre.
+
+497
+00:38:24,880 --> 00:38:26,000
+Pourquoi reviendrait-il ici?
+
+498
+00:38:26,800 --> 00:38:29,120
+Il connait mieux le terrain. Il est en chasse.
+
+499
+00:38:31,240 --> 00:38:32,960
+Bon, ammenez-le au cachot.
+
+500
+00:38:33,800 --> 00:38:36,120
+- Non! Je devrais venir avec vous.
+- C'est hors de question.
+
+501
+00:38:36,960 --> 00:38:39,600
+Vous voulez encore perdre des hommes, Commandant?
+
+502
+00:38:40,440 --> 00:38:42,520
+Personne ne connait Serenity mieux que moi. Je vous aiderai.
+
+503
+00:38:44,640 --> 00:38:46,000
+On le laisse passer en premier.
+
+504
+00:38:47,840 --> 00:38:48,920
+Ouais.
+
+505
+00:38:49,760 --> 00:38:51,400
+Vous voulez pas, heu--
+
+506
+00:39:05,880 --> 00:39:08,280
+Merci. J'ai vraiment l'avantage, comme ça.
+
+507
+00:39:24,280 --> 00:39:27,960
+Ça pourrait être long. On ne devrait pas trop se balader.
+
+508
+00:39:28,800 --> 00:39:29,840
+Je vais juste prendre de la nourriture--
+
+509
+00:39:33,600 --> 00:39:34,720
+Quelqu'un approche.
+
+510
+00:41:04,360 --> 00:41:06,640
+Tu lui sauve la vie et il récupère quand même la cargaison.
+
+511
+00:41:09,920 --> 00:41:12,040
+Il était obligé. On pouvait pas en profiter.
+
+512
+00:41:12,880 --> 00:41:14,680
+Ça serait pas civilisé.
+
+513
+00:41:33,000 --> 00:41:36,840
+Traduction: Mikaël Bouillot
+
+514
+00:41:38,760 --> 00:41:44,520
+http://www.corbac.com/firefly
+
+515
+00:42:01,720 --> 00:42:02,880
+Grr! Arrgh!
+

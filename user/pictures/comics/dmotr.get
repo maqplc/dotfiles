@@ -1,0 +1,26 @@
+#!/bin/sh
+
+local_name="dmotr"
+
+feed_url="http://www.shamusyoung.com/twentysidedtale/?cat=14"
+feed_name=$local_name".feed"
+
+
+function _new {
+	sed -n 's%href="\([^"]*\)" rel="bookmark" title="Permanent%\n\1\n%gp' "../$feed_name" \
+	| sed -n '2~2 p' \
+	| wget -nv -i -
+
+	 sed -n "s%^.*\(http://[^/]*/images/comic[^\.]*\.jpg\).*$%\1%gp" index* \
+	 | wget -nv -i -
+
+	#je cherche une méthode pour extraire les commentaires
+	rm index*
+}
+
+
+function _update {
+	echo -e "Dunno"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

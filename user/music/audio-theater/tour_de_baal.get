@@ -1,0 +1,21 @@
+#!/bin/sh
+
+local_name="tour_de_baal"
+
+feed_url="http://latourdebaal.communaute-thurm.info/telecharger.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n 's/HREF="\(http:\/\/[^\/]*\/downloads\/Episode[^"]*\)"/\n\1\n/p' "../$feed_name" \
+	| sed -n '2~3 p' \
+	| wget -T 30 -i -
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

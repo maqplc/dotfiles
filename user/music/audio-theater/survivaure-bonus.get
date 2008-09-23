@@ -1,0 +1,29 @@
+#!/bin/sh
+
+local_name="survivaure-bonus"
+
+feed_url="http://www.knarfworld.net/rubrique.php?id_rubrique=52"
+feed_name=$local_name".feed"
+
+function _new {
+
+	awk 'BEGIN { found = 0 } 
+		 /<h3>Bonus/ { found = 1 } 
+		 /<\/ul>/ { found = 0 } 
+		 /<li>/ { if ( found == 1) {print $0} }' "../$feed_name" \
+	| sed -n 's/href="\(article[^"]*\)"/\n\1\n/p'  \
+	| sed -n '2~3 p' \
+	| wget -nv -B "http://www.knarfworld.net/" -i -
+
+	sed -n 's/\(http.*\.zip\)/\n\1\n/p' article.php* \
+	| sed -n '/npstream/ p' | wget -i -
+
+	unzip "*.zip" ; rm article.php* *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

@@ -1,0 +1,27 @@
+#!/bin/sh
+
+local_name="epervier"
+
+feed_url="http://romain.louis1.free.fr/"
+feed_name=$local_name".feed"
+
+function _new {
+
+	wget -T 30 -c http://romain.louis1.free.fr/episodes/EPERVIER-Episode{1..12}.zip 
+	mkdir saison{1..2}
+
+	for i in EPERVIER-Episode{1..6}.zip
+	do
+		unzip -u $i -d saison1
+		rm $i
+	done
+
+	unzip -u "*.zip" -d saison2 ; rm *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

@@ -1,0 +1,21 @@
+#!/bin/sh
+
+local_name="wallpapers"
+
+feed_url="http://interfacelift.com/wallpaper_beta/downloads/downloads/widescreen/1440x900/"
+feed_name=$local_name".feed"
+
+wall_dl="http://interfacelift.com/wallpaper/downloads/"
+
+function _new {
+	sed -n 's?href="/dl/wallpaper/\(.*\.jpg\)?\n'${wall_dl}'0\1\n?p' "../$feed_name" | sed -n '2~3 p' | wget -nv -i -
+}
+
+
+function _update {
+	echo -e "Getting top ten downloaded wallpapers"	
+
+	_new
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

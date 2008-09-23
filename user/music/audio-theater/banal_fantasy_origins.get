@@ -1,0 +1,21 @@
+#!/bin/sh
+
+local_name="banal_fantasy_origins"
+
+feed_url="http://ledemondurire.free.fr/Creations/Sagas/BFO/indexBFO.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n '/Banal Fantasy Origins/ p' "../$feed_name" | sort \
+	| sed -n 's/^Url\[1\].*"\([^"]*\)";/\1/p' | wget -nv -T 30 -i -
+
+	unzip -u "*.zip" ; rm *.zip
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

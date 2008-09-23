@@ -1,0 +1,27 @@
+#!/bin/sh
+
+local_name="3eme_legion"
+
+feed_url="http://www.iiiemelegion.net/blognews/?feed=rss"
+feed_name=$local_name".feed"
+
+
+function _new {
+	saison1=$( echo "ep"{1..21}".zip " )
+	saison2=$( echo "ep2-"{1..2}".zip " )
+
+	echo $saison1 $saison2 | tr [:blank:] \\n \
+	| wget -c -nv -B "http://www.iiiemelegion.net/Legion/" -i -
+
+	mkdir -p saison1 saison2
+	unzip -u "ep2-*.zip" -d saison2 ; rm ep2-*.zip
+	unzip -u "ep*.zip"   -d saison1 ; rm *.zip
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

@@ -1,0 +1,39 @@
+#!/bin/sh
+
+local_name="naheulbeuk"
+
+feed_url="http://www.penofchaos.com/warham/download/index.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	mkdir -p saison1 saison2
+
+	awk 'BEGIN { found = 0 } 
+		/NOUVEAUTES/ || /TEXTES/ || /PISODES ? LA/ { found = 0 }
+		/PISODES/ { found = 1} 
+		/Zip/ { if ( found == 1) {print $0} }' "../$feed_name" \
+	| sed -n 's%\(http://poc\.ookoo\.org/naheulbeuk/.*\.zip\)%\n\1\n%p' \
+	| sed -n '2~3 p' | wget -nv -i -
+
+	unzip -u "*s1*.zip" -d saison1
+	unzip -u "*s2*.zip" -d saison2
+	rm *.zip
+
+}
+
+
+function _update {
+
+	echo "Last update link :"
+	awk 'BEGIN { found = 0 } 
+		/NOUVEAUTES/ { found = 1 }
+		/PISODES/ { found = 0} 
+		/Zip/ { if ( found == 1) {print $0} }' feed \
+	| sed -n 's%\(http://poc\.ookoo\.org/naheulbeuk/.*\.zip\)%\n\1\n%p' \
+	| sed -n '2~3 p' 
+
+	echo -e "Put in the right box by $magenta yourself $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

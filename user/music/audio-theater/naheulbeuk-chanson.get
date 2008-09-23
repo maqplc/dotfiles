@@ -1,0 +1,23 @@
+#!/bin/sh
+
+local_name="naheulbeuk-chanson"
+
+feed_url="http://www.penofchaos.com/warham/download/index-musique.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n 's%\(http://poc\.ookoo\.org/naheulbeuk/.*\.zip\)%\n\1\n%p' "../$feed_name" \
+	| sed -n '2~3 p' | wget -nv -i -
+
+	unzip -u "*.zip" 
+	rm *.zip
+
+}
+
+
+function _update {
+	echo "You should go and see the news at $feed_url"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

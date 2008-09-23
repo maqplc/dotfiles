@@ -1,0 +1,22 @@
+#!/bin/sh
+
+local_name="gayzor_team"
+
+feed_url="http://mptrollde3.free.fr/index.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	wget -nv -T 30 -c http://mptrollde3.free.fr/DL/{episode{1..3},equipe}.zip
+	
+	unzip "*.zip"
+	rm *.zip
+
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

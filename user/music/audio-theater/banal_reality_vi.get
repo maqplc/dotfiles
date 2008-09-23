@@ -1,0 +1,31 @@
+#!/bin/sh
+
+local_name="banal_reality_vi"
+
+feed_url="http://gorkabnitrix.com/banalreality6/Episodes.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	wget "http://gorkabnitrix.free.fr/BR%20VI/" -O list
+
+	sed -n '/Episode/ p' list | sed -n 's/HREF="\(.*Episode.*\)"/\n\1\n/p' | sed -n '2~3 p' \
+	| wget -T 30 -B "http://gorkabnitrix.free.fr/BR%20VI/" -i -
+
+	rm  list
+}
+
+
+function _update {
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+	echo "Downloading last episode"
+
+	wget "http://gorkabnitrix.free.fr/BR%20VI/" -O list
+
+	sed -n '/Episode/ p' list | sed -n 's/HREF="\(.*Episode.*\)"/\n\1\n/p' | sed -n '2~3 p' \
+	| tail -n 1 | wget -c -T 30 -B "http://gorkabnitrix.free.fr/BR%20VI/" -i -
+
+	rm  list
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"

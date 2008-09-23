@@ -1,0 +1,30 @@
+#!/bin/sh
+
+local_name="adoprixtoxis"
+
+feed_url="http://adoprixtoxis.free.fr/telechargementmp3.php"
+feed_name=$local_name".feed"
+
+function _new {
+
+	sed -n 's%\(http://[^/]*/telechargement/adop-MP3/.*\.zip\)%\n\1\n%p ; /Les bonus/ q' "../$feed_name" \
+	| sed -n '2~3 p' | wget -T 30 -nv -i -
+
+	unzip -u "*.zip" ; rm *.zip
+
+}
+
+
+function _update {
+
+	echo -e "You should go and see the news at $magenta $feed_url $normal"	
+	echo "Downloading last episode"
+	
+	sed -n 's%\(http://[^/]*/telechargement/adop-MP3/.*\.zip\)%\n\1\n%p ; /Les bonus/ q' "../$feed_name" \
+	| sed -n '2~3 p' | tail -n 1 |  wget -T 30 -nv -i -	
+
+	unzip -u "*.zip" ; rm *.zip
+
+}
+
+Feed_updated $local_name $feed_url "_new" "_update"
