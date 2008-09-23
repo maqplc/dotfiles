@@ -22,6 +22,19 @@ import XMonad.Layout.NoBorders
 import XMonad.Util.Dzen 
 import XMonad.Util.Run
 
+import XMonad.Actions.CycleWS
+
+import XMonad.Layout.Accordion
+import XMonad.Layout.MagicFocus
+import XMonad.Layout.PerWorkspace
+
+
+import XMonad.Prompt
+import XMonad.Prompt.RunOrRaise
+import XMonad.Prompt.Window
+
+import XMonad.Layout.Tabbed
+
 -- The preferred terminal program, which is used in a binding below and by
 -- certain contrib modules.
 --
@@ -62,7 +75,7 @@ myNumlockMask   = mod2Mask
 --
 -- > workspaces = ["web", "irc", "code" ] ++ map show [4..9]
 --
-myWorkspaces    = ["web","code","media","4"]
+myWorkspaces    = ["web","code","media"]
  
 -- Border colors for unfocused and focused windows, respectively.
 --
@@ -80,11 +93,6 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     -- launch firefox
     , ((modMask,		xK_f), spawn $ "firefox")
  
-    -- launch dmenu
-    , ((modMask,               xK_p     ), spawn "exe=`dmenu_path | dmenu` && eval \"exec $exe\"")
- 
-    -- launch gmrun
-    , ((modMask .|. shiftMask, xK_p     ), spawn "gmrun")
  
     -- close focused window 
     , ((modMask .|. shiftMask, xK_c     ), kill)
@@ -129,10 +137,10 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     , ((modMask,               xK_t     ), withFocused $ windows . W.sink)
  
     -- Increment the number of windows in the master area
-    , ((modMask              , xK_comma ), sendMessage (IncMasterN 1))
+    , ((modMask              , xK_p ), sendMessage (IncMasterN 1))
  
     -- Deincrement the number of windows in the master area
-    , ((modMask              , xK_period), sendMessage (IncMasterN (-1)))
+    , ((modMask              , xK_m), sendMessage (IncMasterN (-1)))
  
     -- Quit xmonad
     , ((modMask .|. shiftMask, xK_q     ), io (exitWith ExitSuccess))
@@ -140,26 +148,26 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     -- Restart xmonad
     , ((modMask              , xK_q     ),
           broadcastMessage ReleaseResources >> restart "xmonad" True)
-    
+ 
+    -- Switch to workspace
+    , ((modMask              , xK_a	), windows $ W.greedyView "web")
+
+    , ((modMask              , xK_z	), windows $ W.greedyView "code")
+
+    , ((modMask              , xK_e ), windows $ W.greedyView "media")
+
+
+    , ((modMask , xK_r), runOrRaisePrompt defaultXPConfig)
+
+
+    , ((modMask  .|. shiftMask, xK_s     ), windowPromptBring  defaultXPConfig)
+    , ((modMask  , xK_s     ), windowPromptGoto  defaultXPConfig)
+
+   , ((modMask .|. shiftMask,               xK_l),  nextWS)
+   , ((modMask .|. shiftMask,               xK_h),    prevWS)
+
+
     ]
-    ++
- 
-    --
-    -- mod-[1..9], Switch to workspace N
-    -- mod-shift-[1..9], Move client to workspace N
-    --
-    [((m .|. modMask, k), windows $ f i)
-        | (i, k) <- zip (XMonad.workspaces conf) [xK_1 .. xK_9]
-        , (f, m) <- [(W.greedyView, 0), (W.shift, shiftMask)]]
-    ++
- 
-    --
-    -- mod-{w,e,r}, Switch to physical/Xinerama screens 1, 2, or 3
-    -- mod-shift-{w,e,r}, Move client to screen 1, 2, or 3
-    --
-    [((m .|. modMask, key), screenWorkspace sc >>= flip whenJust (windows . f))
-        | (key, sc) <- zip [xK_w, xK_e, xK_r] [0..]
-        , (f, m) <- [(W.view, 0), (W.shift, shiftMask)]]
  
  
 ------------------------------------------------------------------------
@@ -190,7 +198,11 @@ myMouseBindings (XConfig {XMonad.modMask = modMask}) = M.fromList $
 -- The available layouts.  Note that each layout is separated by |||,
 -- which denotes layout choice.
 --
-myLayout = avoidStruts $ smartBorders $ tiled ||| Mirror tiled ||| Full
+myLayout = avoidStruts $ smartBorders  $
+	onWorkspace "media" (Full ||| Mirror tiled)$
+	onWorkspace "web"  (Accordion ||| simpleTabbed ||| Mirror tiled) $
+	onWorkspace "code" (simpleTabbed ||| Accordion ||| Mirror tiled)$
+	Mirror tiled 
   where
      -- default tiling algorithm partitions the screen into two panes
      tiled   = Tall nmaster delta ratio
@@ -240,7 +252,7 @@ myFocusFollowsMouse = True
 -- > logHook = dynamicLogDzen
 --
 firstDzenCommand  = "dzen2 -bg '#060000' -fg '#777777' -h 16 -w 1440 -sa c -e '' -ta l"
-secondDzenCommand = "conky | dzen2 -bg '#060000' -fg '#777777' -h 16 -y 884 -sa r -e '' -ta r"
+secondDzenCommand = "while true ; do date +'%A %d %B %Y - %H:%M' ; sleep 5 ; done | dzen2 -bg '#060000' -fg '#777777' -h 16 -y 884 -sa r -e '' -ta r"
 
 myLogHook h = dynamicLogWithPP $ defaultPP {
                 ppCurrent  = dzenColor "black" "white" . pad
