@@ -35,7 +35,7 @@ export PS1="[\u@\h${EBL} \w ${NONE}]# \n> "
 #------------------------------
 # ALIASES
 #------------------------------
-alias cmus="screen -x cmus
+alias cmus="screen -x cmus"
 
 #------------------------------
 # FUNCTIONS
