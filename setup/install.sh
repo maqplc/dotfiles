@@ -15,7 +15,7 @@ normal="\033[0m"
 
 PROGS="\
 	xorg nvidia xmonad xmonad-contrib dzen2 \
-	openssh \
+	git \
 	screen \
 	cmus \
 	feh \
