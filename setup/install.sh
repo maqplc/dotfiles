@@ -17,14 +17,13 @@ PROGS="\
 	xorg nvidia xmonad xmonad-contrib dzen2 \
 	git \
 	screen \
-	cmus \
+	mpc mpd ncmpc \
 	feh \
 	mplayer codecs \
 	rxvt-unicode \
 	evince \
 	thunar \
 	firefox flash-plugin \
-	snownews \
 	sudo \
 	gvim \
 	alsa-utils \
@@ -35,6 +34,8 @@ PROGS="\
 	wine \
 	unzip unrar bzip2 \
 	"
+#cdrkit dvd+rw-tools elinks rtorrent
+#snownews cmus
 
 user="maqplc"
 daemons="@net-profiles alsa hal fam"
@@ -69,11 +70,12 @@ CONNECT() {
 }
 
 UPDATE() {
-	title_display "Mise à jour du système"
+	title_display "Mise à jour de pacman"
 
 	pacman -Sy pacman
 	UNCONFLICT
 	
+	title_display "Mise à jour des paquets"
 	pacman -Syu
 }
 
@@ -88,7 +90,7 @@ UNCONFLICT() {
 		while $continuer
 		do
 			clear
-			echo -e "Action pour le fichier $bold $old $normal :"
+			title_display "$old <-> $normal"
 			echo -e "\t ${bold}E${normal}diter"
 			echo -e "\t ${bold}D${normal}iff"
 			
@@ -128,6 +130,7 @@ POLISH() {
 }
 
 USER_CREATE() {
+	title_display "Création du compte $user"
 	useradd -m -G disk,lp,wheel,mail,log,games,network,video,audio,optical,floppy,power $user
 	passwd $user 
 }
